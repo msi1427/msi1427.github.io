@@ -1,0 +1,14 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/msi.webp"
+  bg_image : "images/backgrounds/msi.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Mohammad Sabik Irbaz"
+  content : "Lead Machine Learning Engineer, Pioneer Alpha Ltd."
+  button1:
+    label : "View CV"
+    link : ""
+  button2:
+    label : "Google Scholar"
+    link : "https://scholar.google.com/citations?user=PLdULx4AAAAJ"
