@@ -16,7 +16,16 @@
 		{{ with .button2 }}
 		<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
 		{{ end }}
+		{{"<!-- Footer Social Links -->" | safeHTML}}
+		<div class="social-icon">
+			<ul class="list-inline">
+				{{ range site.Params.social }}
+				<li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+				{{ end }}
+			</ul>
+		</div>
 	</div>
+
 </section>
 {{"<!-- /Welcome Slider-->" | safeHTML}}
 {{end}}
