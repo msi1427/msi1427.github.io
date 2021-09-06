@@ -44,7 +44,7 @@ link = "plugins/google-map/map.js"
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
 name = "Bio"
-url = "#about"
+url = "#bio"
 weight = 1
 
 [[Languages.en.menu.main]]
@@ -63,7 +63,7 @@ url = "#team"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "Awards & Achievements"
+name = "Awards"
 url = ""
 weight = 5
 
@@ -71,6 +71,11 @@ weight = 5
 name = "Contact"
 url = "#contact"
 weight = 6
+
+[[Languages.en.menu.main]]
+name = "CV"
+url = "MSI_CV.pdf"
+weight = 7
 
 
 
