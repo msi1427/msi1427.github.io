@@ -16,17 +16,14 @@
                     </div>
                     <nav>
                         <ul>
-                            {{ range .Pages.ByDate }}
-                                {{if .Title }}
-                                    {{if .Content}}
-                                        <li>
-                                            <a href="#{{ cond (in (.Title|urlize) "%") (.Title | base64Encode) (.Title) | urlize }}">{{ .Title }}</a>
-                                        </li>
-                                    {{ else }}
-                                        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-                                    {{ end }}
-                                {{ end }}
-                            {{ end }}
+                            <li><a href="#bio">         Bio</a></li>
+                            <li><a href="#news">        News</a></li>
+                            <li><a href="#experience">  Experience</a></li>
+                            <li><a href="#research">    Research</a></li>
+                            <li><a href="#projects">    Projects</a></li>
+                            <li><a href="#awards">      Awards</a></li>
+                            <li><a href="#contacts">    Contacts</a></li>
+                            <li><a href="/cv/MSI_CV.pdf">CV</a></li>
                         </ul>
                     </nav>
                     <div class="content">
@@ -75,11 +72,11 @@
                                 </span>
                             </a>
 
-                            <!-- <a href="{{.Params.cv_url}}"> -->
+                            <a href="{{.Params.cv_url}}">
                                 <span class="icon">
                                     <img src="{{ .Params.cv_icon }}">
                                 </span>
-                            <!-- </a> -->
+                            </a>
 
                             
                         </div>
