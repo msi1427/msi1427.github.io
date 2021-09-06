@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mohammad Sabik Irbaz</title>
-    <link>http://msi1427.github.io/</link>
+    <link>/</link>
     <description>Recent content on Mohammad Sabik Irbaz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://msi1427.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bio</title>
-      <link>http://msi1427.github.io/bio/</link>
+      <link>/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://msi1427.github.io/bio/</guid>
+      <guid>/bio/</guid>
       <description>Assalamu Alaikum (May peace be upon you),
 I am Mohammad Sabik Irbaz, born and raised in Bangladesh, near the longest sea-beach in the world, Cox&amp;rsquo;s Bazar. You can call me Sabik. I am a student of knowledge and an independent Natural Language Processing researcher. Currently I am working as a Lead Machine Learning Engineer at Pioneet Alpha Ltd. I am also serving as the main instructor of Applied Data Science and Machine Learning course at Amar iSchool, an online educational platform.</description>
     </item>
