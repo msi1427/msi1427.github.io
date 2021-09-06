@@ -2,4 +2,3 @@ baseURL = ""
 languageCode = "en-us"
 title = "Mohammad Sabik Irbaz"
 theme = "dimension"
-canonifyURLs = true
