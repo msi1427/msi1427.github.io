@@ -46,7 +46,7 @@
 				'transform #{_duration(article)} ease-in-out',
 				'filter #{_duration(article)} ease-in-out'
 			));
-			background-image:		var(--site-background);
+			background-image:		url('../../images/bg.jpg');
 			background-position:	center;
 			background-size:		cover;
 			background-repeat:		no-repeat;
@@ -60,9 +60,9 @@
 			}
 		}
 
-		body.is-preload & {
+		body.is-loading & {
 			&:before {
-				background-color: _palette(bg-alt);
+				background-color:	_palette(bg-alt);
 			}
 		}
 	}

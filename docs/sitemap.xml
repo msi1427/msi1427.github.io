@@ -2,12 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/awards/</loc>
+  </url><url>
     <loc>/bio/</loc>
+  </url><url>
+    <loc>/blogs/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
+    <loc>/contacts/</loc>
+  </url><url>
+    <loc>/experience/</loc>
+  </url><url>
     <loc>/</loc>
   </url><url>
+    <loc>/news/</loc>
+  </url><url>
+    <loc>/projects/</loc>
+  </url><url>
+    <loc>/research/</loc>
+  </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/talks/</loc>
   </url>
 </urlset>
