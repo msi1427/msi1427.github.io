@@ -17,6 +17,20 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Logo', name: 'icon', widget: 'string' }
       - { label: 'Background', name: 'background', widget: 'image' }
+      - { label: 'GSIcon', name: 'google_scholar_icon', widget: 'image' }
+      - { label: 'GSURL', name: 'google_scholar_url', widget: 'string' }
+      - { label: 'GitIcon', name: 'github_icon', widget: 'image' }
+      - { label: 'GitURL', name: 'github_url', widget: 'string' }
+      - { label: 'TIcon', name: 'github_icon', widget: 'image' }
+      - { label: 'TURL', name: 'github_url', widget: 'string' }
+      - { label: 'LIcon', name: 'github_icon', widget: 'image' }
+      - { label: 'LURL', name: 'github_url', widget: 'string' }
+      - { label: 'CdIcon', name: 'github_icon', widget: 'image' }
+      - { label: 'CdURL', name: 'github_url', widget: 'string' }
+      - { label: 'MIcon', name: 'github_icon', widget: 'image' }
+      - { label: 'MURL', name: 'github_url', widget: 'string' }
+      - { label: 'CVIcon', name: 'github_icon', widget: 'image' }
+      - { label: 'CVURL', name: 'github_url', widget: 'string' }
   - name: 'pages'
     label: 'Pages'
     folder: 'content/'

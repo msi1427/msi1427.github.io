@@ -14,16 +14,6 @@
                             </span>
                         </a>
                     </div>
-                    <div class="content">
-                        <div class="inner">
-                            <h1>{{ .Title | default "Title" }}</h1>
-                            {{ if .Params.description }}
-                            <p>
-                                {{ .Params.description }}
-                            </p>
-                            {{ end }}
-                        </div>
-                    </div>
                     <nav>
                         <ul>
                             {{ range .Pages.ByDate }}
@@ -39,6 +29,61 @@
                             {{ end }}
                         </ul>
                     </nav>
+                    <div class="content">
+                        <div class="inner">
+                            <h1>{{ .Title | default "Title" }}</h1>
+                            {{ if .Params.description }}
+                            <p>
+                                {{ .Params.description }}
+                            </p>
+                            {{ end }}
+
+                            <a href="{{.Params.google_scholar_url}}">
+                            <span class="icon">
+                                <img src="{{ .Params.google_scholar_icon }}">
+                            </span>
+                            </a>
+
+                            <a href="{{.Params.github_url}}">
+                                <span class="icon">
+                                    <img src="{{ .Params.github_icon }}">
+                                </span>
+                            </a>
+
+                            <a href="{{.Params.twitter_url}}">
+                                <span class="icon">
+                                    <img src="{{ .Params.twitter_icon }}">
+                                </span>
+                            </a>
+
+                            <a href="{{.Params.codeforces_url}}">
+                                <span class="icon">
+                                    <img src="{{ .Params.codeforces_icon }}">
+                                </span>
+                            </a>
+
+                            <a href="{{.Params.linkedin_url}}">
+                                <span class="icon">
+                                    <img src="{{ .Params.linkedin_icon }}">
+                                </span>
+                            </a>
+                            <br/>
+                            
+                            <a href="{{.Params.mail_url}}">
+                                <span class="icon">
+                                    <img src="{{ .Params.mail_icon }}">
+                                </span>
+                            </a>
+
+                            <a href="{{.Params.cv_url}}">
+                                <span class="icon">
+                                    <img src="{{ .Params.cv_icon }}">
+                                </span>
+                            </a>
+
+                            
+                        </div>
+                    </div>
                 </header>
 
             <!-- Main -->
