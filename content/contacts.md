@@ -1,7 +1,7 @@
 ---
 title: Contacts
 ---
-**Email:** sabikirbaz[at]iut[hypen]dhaka[dot]edu
+**Email:** sabikirbaz [at] iut [hyphen] dhaka [dot] edu
 
 **Phone:** +88016238483732
 
