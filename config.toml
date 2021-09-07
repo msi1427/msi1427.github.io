@@ -2,3 +2,6 @@ baseURL = ""
 languageCode = "en-us"
 title = "Mohammad Sabik Irbaz"
 theme = "dimension"
+
+[markup.goldmark.renderer]
+unsafe= true
