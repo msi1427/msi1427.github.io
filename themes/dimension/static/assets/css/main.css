@@ -72,6 +72,22 @@ input, select, textarea {
 	appearance: none;
 }
 
+.row {
+	display: flex;
+}
+  
+.column {
+	flex: 50%;
+}
+
+.box{
+	width: 350px;
+	border: 0px solid rgb(7, 13, 44);
+	padding: 0px;
+	margin: 0px;
+	fill:rgb(13, 23, 70) 
+}
+
 /* Basic */
 
 	@-ms-viewport {
