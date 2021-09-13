@@ -4,8 +4,8 @@ title: Experience
 
 *(\*) denotes current affliation* 
 
-<div class="row">
-  <div class="column">
+<div class="doc-row">
+  <div class="doc-column">
     <h3> Industry Experience </h3>
     <div class ="box">
         <a href="https://pioneeralpha.com/"> <b> Pioneer Alpha Ltd.</b> </a>, Dhaka, Bangladesh (*) <br/>
@@ -24,7 +24,7 @@ title: Experience
     </div>
   </div>
   
-  <div class="column">
+  <div class="doc-column">
     <h3> Research Experience </h3>
     <div class ="box">
         <b> Fordham Human Centered AI Reseach Lab </b> <br/>
@@ -40,7 +40,7 @@ title: Experience
     </div>
   </div>
   
-  <div class="column">
+  <div class="doc-column">
     <h3> Teaching Experience </h3>
     <div class ="box">
         <a href="https://amarischool.com/"> <b> Amar iSchool</b> </a> (*) <br/>

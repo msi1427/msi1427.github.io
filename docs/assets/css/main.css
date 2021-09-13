@@ -72,11 +72,11 @@ input, select, textarea {
 	appearance: none;
 }
 
-.row {
+.doc-row {
 	display: flex;
 }
   
-.column {
+.doc-column {
 	flex: 50%;
 }
 
