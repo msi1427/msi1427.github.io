@@ -81,7 +81,7 @@ input, select, textarea {
 }
 
 .box{
-	width: 350px;
+	width: 90%;
 	border: 0px solid rgb(7, 13, 44);
 	padding: 0px;
 	margin: 0px; 

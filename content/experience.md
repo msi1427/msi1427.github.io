@@ -27,8 +27,8 @@ title: Experience
   <div class="doc-column">
     <h3> Research Experience </h3>
     <div class ="box">
-        <b> Fordham Human Centered AI Reseach Lab </b> <br/>
-        Department of CIS, Fordham University (*)<br/>
+        <b> Fordham Human Centered AI Reseach Lab </b> (*) <br/>
+        Department of CIS, Fordham University <br/>
         New York, USA <br/>
         <b>March, 2021 - Present</b> <br/>
     </div>
