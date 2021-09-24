@@ -14,7 +14,7 @@ title: Experience
     </div>
     <div class ="box">
         <a href="https://omdena.com/"> <b> Omdena Inc.</b> </a>, New York, USA <br/>
-        Lead Machine Learning Engineer, Full Time <br/>
+        Lead Machine Learning Engineer, Part Time <br/>
         <b>April, 2021 - June, 2021</b> <br/> <br/>
     </div>
     <div class ="box">
