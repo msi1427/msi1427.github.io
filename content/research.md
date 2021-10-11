@@ -17,10 +17,10 @@ Updated list of Publications on **[Google Scholar](https://scholar.google.com/ci
         <!-- Presented in <b><a href="conference url">Conference Name</a></b>  -->
         Under Review
         <br/><br/>
-        <a href="documents/citations/license_plate.bib"> <div class="button"> <b>Cite</b> </div> </a>
+        <a href="documents/citations/license_plate.txt"> <div class="button"> <b>Cite</b> </div> </a>
         <!-- <a href="DOI"> <div class="button"> <b>Paper</b> </div> </a>
         <a href="documents/presentations/"> <div class="button"> <b>Presentation</b> </div> </a> -->
-        <a href="https://arxiv.org/pdf/2108.08339.pdf"> <div class="button"> <b>Preprint</b> </div> </a>
+        <a href="https://arxiv.org/pdf/2108.08339.pdf"> <div class="button"> <b>PDF</b> </div> </a>
     </td>
 </tr>
 <tr>
@@ -33,10 +33,10 @@ Updated list of Publications on **[Google Scholar](https://scholar.google.com/ci
         <a href="https://scholar.google.com/citations?user=zQKHA64AAAAJ">MD Abdullah Al Nasim</a> 
         <br/>
         Accepted in <b><a href="https://www.icmla-conference.org/icmla21/index.html">IEEE ICMLA 2021</a></b> <br/><br/>
-        <a href="documents/citations/bangla_chatbot.bib"> <div class="button"> <b>Cite</b> </div> </a>
+        <a href="documents/citations/bangla_chatbot.txt"> <div class="button"> <b>Cite</b> </div> </a>
         <!-- <a href="DOI"> <div class="button"> <b>Paper</b> </div> </a>
         <a href="documents/presentations/"> <div class="button"> <b>Presentation</b> </div> </a> -->
-        <a href="https://arxiv.org/pdf/2107.05541.pdf"> <div class="button"> <b>Preprint</b> </div> </a>
+        <a href="https://arxiv.org/pdf/2107.05541.pdf"> <div class="button"> <b>PDF</b> </div> </a>
     </td>
 </tr> 
 <tr>
@@ -48,10 +48,10 @@ Updated list of Publications on **[Google Scholar](https://scholar.google.com/ci
         <a href="https://www.researchgate.net/profile/Refat-Ferdous">Refat E Ferdous</a>
         <br/>
         Presented in <b><a href="https://confbim.com/">BIM 2021</a></b> <br/><br/>
-        <a href="documents/citations/employee_tracking.bib"> <div class="button"> <b>Cite</b> </div> </a>
+        <a href="documents/citations/employee_tracking.txt"> <div class="button"> <b>Cite</b> </div> </a>
         <!-- <a href="DOI"> <div class="button"> <b>Paper</b> </div> </a> -->
         <a href="documents/presentations/EmployeeTracking.pdf"> <div class="button"> <b>Presentation</b> </div> </a>
-        <a href="https://arxiv.org/pdf/2107.07576.pdf"> <div class="button"> <b>Preprint</b> </div> </a>
+        <a href="https://arxiv.org/pdf/2107.07576.pdf"> <div class="button"> <b>PDF</b> </div> </a>
     </td>
 </tr>
 </table>
@@ -67,11 +67,11 @@ Updated list of Publications on **[Google Scholar](https://scholar.google.com/ci
         <a href="https://www.researchgate.net/profile/Tanjila-Alam-Sathi">Tanjila Alam Sathi</a>, 
         <a href="https://www.researchgate.net/profile/Lutfun-Lota-2">Lutfun Nahar Lota</a> 
         <br/>
-        Presented in <b><a href="https://ubicomp.org/ubicomp2020">UbiComp/ISWC 2020</a></b> <br/><br/>
-        <a href="documents/citations/nurse_care.bib"> <div class="button"> <b>Cite</b> </div> </a>
-        <a href="https://dl.acm.org/doi/abs/10.1145/3410530.3414339"> <div class="button"> <b>Paper</b> </div> </a>
+        Presented in <b><a href="https://ubicomp.org/ubicomp2020">UbiComp/ISWC HASCA 2020</a></b> <br/><br/>
+        <a href="documents/citations/nurse_care.txt"> <div class="button"> <b>Cite</b> </div> </a>
+        <a href="https://dl.acm.org/doi/abs/10.1145/3410530.3414339"> <div class="button"> <b>DOI</b> </div> </a>
         <a href="documents/presentations/NurseCare.pdf"> <div class="button"> <b>Presentation</b> </div> </a>
-        <a href="https://www.researchgate.net/publication/344271908_Nurse_Care_Activity_Recognition_Based_on_Machine_Learning_Techniques_Using_Accelerometer_Data"> <div class="button"> <b>Preprint</b> </div> </a>
+        <a href="https://www.researchgate.net/publication/344271908_Nurse_Care_Activity_Recognition_Based_on_Machine_Learning_Techniques_Using_Accelerometer_Data"> <div class="button"> <b>PDF</b> </div> </a>
     </td>
 </tr>
 </table>
@@ -88,9 +88,9 @@ Updated list of Publications on **[Google Scholar](https://scholar.google.com/ci
         Presented in <b><a href="conference url">Conference Name</a></b> 
         <br/><br/>
         <a href="documents/citations/"> <div class="button"> <b>Cite</b> </div> </a>
-        <a href="DOI"> <div class="button"> <b>Paper</b> </div> </a>
+        <a href="DOI"> <div class="button"> <b>DOI</b> </div> </a>
         <a href="documents/presentations/"> <div class="button"> <b>Presentation</b> </div> </a>
-        <a href="Preprint Link"> <div class="button"> <b>Preprint</b> </div> </a>
+        <a href="Preprint Link"> <div class="button"> <b>PDF</b> </div> </a>
     </td>
 </tr> 
 -->
