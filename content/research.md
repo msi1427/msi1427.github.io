@@ -1,7 +1,7 @@
 ---
 title: Research
 ---
-Updated list of Publications on **[Google Scholar](https://scholar.google.com/citations?user=PLdULx4AAAAJ)**
+Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLdULx4AAAAJ)**
 
 ## 2021
 <table>
