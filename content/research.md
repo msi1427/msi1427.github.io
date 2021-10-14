@@ -8,7 +8,7 @@ Updated list of Publications on **[Google Scholar](https://scholar.google.com/ci
 <tr>
     <td>
         <img src="/images/research/license_plate.jpg" width=100%> <br/>
-        <b>End-to-End License Plate Recognition Pipeline for Real-time Low Resource Video Based Applications</b> <br/>
+        <b>Real-time License Plate Recognition System for  Low Resource Video-based Applications</b> <br/>
         <a href="https://www.researchgate.net/profile/Alif-Ashrafee">Alif Ashrafee</a>, 
         <a href="https://www.researchgate.net/profile/Akib-Khan-5">Akib Mohammed Khan</a>, 
         <b><a href="https://msi1427.github.io/">Mohammad Sabik Irbaz</a></b>,
@@ -50,7 +50,7 @@ Updated list of Publications on **[Google Scholar](https://scholar.google.com/ci
         Presented in <b><a href="https://confbim.com/">BIM 2021</a></b> <br/><br/>
         <a href="documents/citations/employee_tracking.txt"> <div class="button"> <b>Cite</b> </div> </a>
         <!-- <a href="DOI"> <div class="button"> <b>Paper</b> </div> </a> -->
-        <a href="documents/presentations/EmployeeTracking.pdf"> <div class="button"> <b>Presentation</b> </div> </a>
+        <!-- <a href="documents/presentations/EmployeeTracking.pdf"> <div class="button"> <b>Presentation</b> </div> </a> -->
         <a href="https://arxiv.org/pdf/2107.07576.pdf"> <div class="button"> <b>PDF</b> </div> </a>
     </td>
 </tr>
