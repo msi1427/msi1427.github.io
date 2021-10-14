@@ -9,8 +9,8 @@ Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLd
     <td>
         <img src="/images/research/license_plate.jpg" width=100%> <br/>
         <b>Real-time License Plate Recognition System for  Low Resource Video-based Applications</b> <br/>
-        <a href="https://www.researchgate.net/profile/Alif-Ashrafee">Alif Ashrafee</a>, 
-        <a href="https://www.researchgate.net/profile/Akib-Khan-5">Akib Mohammed Khan</a>, 
+        <a href="https://www.researchgate.net/profile/Alif-Ashrafee">Alif Ashrafee*</a>, 
+        <a href="https://www.researchgate.net/profile/Akib-Khan-5">Akib Mohammed Khan*</a>, 
         <b><a href="https://msi1427.github.io/">Mohammad Sabik Irbaz</a></b>,
         <a href="https://scholar.google.com/citations?user=zQKHA64AAAAJ">MD Abdullah Al Nasim</a> 
         <br/>
@@ -62,8 +62,8 @@ Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLd
     <td>
         <img src="/images/research/nurse_care.jpg" width=90%> <br/>
         <b>Nurse Care Activity Recognition Based on Machine Learning Techniques Using Accelerometer Data</b> <br/>
-        <b><a href="https://msi1427.github.io/">Mohammad Sabik Irbaz</a></b>, 
-        <a href="https://www.researchgate.net/profile/Abir-Azad">Abir Azad</a>, 
+        <b><a href="https://msi1427.github.io/">Mohammad Sabik Irbaz*</a></b>, 
+        <a href="https://www.researchgate.net/profile/Abir-Azad">Abir Azad*</a>, 
         <a href="https://www.researchgate.net/profile/Tanjila-Alam-Sathi">Tanjila Alam Sathi</a>, 
         <a href="https://www.researchgate.net/profile/Lutfun-Lota-2">Lutfun Nahar Lota</a> 
         <br/>

@@ -223,16 +223,40 @@ Other than AI, I also like to explore History, Theology, Geopolitics, Psychology
                                 <article id="projects">
                                     <h2 class="major">Projects</h2>
                                     
-                                    <p><em><b>Please read this before going through the projects.</b> <br/> I could not link the source code to some of the projects below due to client confidentiality or lab confidentiality. Everything related to a particular project is not described to the full extent here. I only discussed the motivation (why and how we started working on this problem), problem statement (what the problem is/was in short), approach (not the formal version, just how I or my team approached the problem), results (final outcome) and my contribution (what exactly I did and learned new from this project). If you like any project below feel free to explore the GitHub repository and, if the link to the repository is not provided here, feel free to contact me for more details.</em> <br/></p>
+                                    <p><em><b>Please read this before going through the projects.</b> <br/> I could not link the source code to some of the projects below due to client confidentiality or lab confidentiality. Everything related to a particular project is not described to the full extent here. I only discussed the motivation (why and how I or my team started working on this problem), problem statement (what the problem is/was in short), approach (not the formal version, just how I or my team approached the problem), results (final outcome) and my contribution (what exactly I did and learned new from this project). If you like any project below feel free to explore the GitHub repository and, if the link to the repository is not provided here, feel free to contact me for more details.</em> <br/></p>
+<!-- ### Title
+<b>Timeline:</b> MM YY - MM YY <br/>
+<b>Motivation:</b> <br/>
+<b>Problem Statement:</b> <br/>
+<b>Methodology:</b> <br/>
+<b>Results:</b> <br/>
+<img src="" width=43%><br/>
+<b>My Contribution:</b> <br/>
+<a href=""> <div class="button"> <b>Detailed Report</b> </div> </a>
+<a href=""> <div class="button"> <b>GitHub Repo</b> </div> </a>
+<a href=""> <div class="button"> <b>Walkthrough</b> </div> </a> 
+<br/> -->
+<h3 id="second-nurse-care-activity-recognition-challenge-2020">Second Nurse Care Activity Recognition Challenge 2020</h3>
+<p><b>Timeline:</b> June 2020 - September 2020 <br/>
+<b>Motivation:</b> After the completion of our Gesture Recognition project, we (me and my teammate <a href="https://www.researchgate.net/profile/Abir-Azad">Abir Azad</a>) were acquainted with sensor data. And by this time, we also completed the online course on <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a> and <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning </a> by <a href="https://www.andrewng.org/">Andrew Ng</a>. We had the basic knowledge of machine learning but we did not have enough practical knowledge. Since we were acquainted with ML and accelerometer data, <a href="https://cse.iutoic-dhaka.edu/profile/lota/educations">Professor Lota</a> took us into her team of participants in the <strong><a href="https://abc-research.github.io/nurse2020/">Second Nurse Care Activity Recognition Challenge 2020</a></strong>. Our team name was <strong>Moonshot_BD</strong><br/>
+<b>Problem Statement:</b> Given the sensor data from the accelerometer with time used by nurses in elder care homes and the manual timetable of different activities by the nurses, is it possible to automate the time-tracking process with high efficiency. <br/>
+<b>Approach:</b> The challenge provided us with two raw datasets. One dataset was containing the accelerometer data (x,y,z-axis) with day and time used by the nurses. Another one contained the start and end of an activity. The dataset was imbalanced and small. First of all, we merged using the start and end times of the second dataset. The resulted dataset contained the accelerometer data (x,y,z-axis) and the activity labels. Then we extracted different features from the data. We trained our models using the features. Since the data was small, we only tried out traditional machine learning models like KNNs, Naive Bayes, Random Forest, SVM, and basic MLP. Our intuition behind not using more parameterized models was that the model might overfit. And since we just had one chance to submit the results, we did not take the chance. When the result got published our suspicion was correct. Our basic MLP won the challenge leaving behind several overly parameterized models. Later we published and presented our work in <b><a href="https://ubicomp.org/ubicomp2020">UbiComp/ISWC HASCA 2020</a></b>. <br/>
+<b>Results:</b> <a href="https://abc-research.github.io/nurse2020/results/">Result Announcement Link</a> <br/>
+<img src="projects/nurse-care/announcement.PNG" width=50%><br/>
+<b>My Contribution:</b> I worked on all parts of the whole project. But my main focus was on training and testing the machine learning models.<br/>
+<a href="https://www.researchgate.net/publication/344271908_Nurse_Care_Activity_Recognition_Based_on_Machine_Learning_Techniques_Using_Accelerometer_Data"> <div class="button"> <b>Detailed Report</b> </div> </a>
+<a href="https://github.com/msi1427/Second-Nurse-Care-Activity-Recognition-Challenge-2020"> <div class="button"> <b>GitHub Repo</b> </div> </a></p>
+<!-- <a href=""> <div class="button"> <b>Walkthrough</b> </div> </a> -->
+<br/>
 <h3 id="gesture-recognition-using-myo-band">Gesture Recognition using Myo Band</h3>
 <p><b>Timeline:</b> January 2019 - May 2019 <br/>
 <b>Motivation:</b> The lab I was primarily affiliated with during my undergrad, SSL Lab, has a long-term project in hand to build automated wheelchairs for semi-paralyzed patients. This project deals with many complicated real-life engineering challenges. The head of SSL Lab, <a href="https://cse.iutoic-dhaka.edu/profile/kamrul/educations">Dr. Kamrul Hasan</a>, formulated a sub-problem of this project which was to map the hand gestures with computer keys, and my team with under the supervision of Professor Hasan came up with a solution to solve this problem.<br/>
 <b>Problem Statement:</b> Can we map different hand gestures with computer keys and leverage them to automate human-computer interaction? <br/>
-<b>Methodology:</b> One way to automate the process is to somehow map the muscle movements with computer keys. First of all, we looked into different sensors which can extract the signal from hand muscle movements. The most efficient one was Myo Band. Using the Myo Band, we analyzed the difference in signal distribution for muscle movements of different gestures. We trained a basic MLP using the signals as input and the gestures as labels and the performance were satisfactory. Back then, we were not acquainted with procedures of comparing baselines and related works. Now the challenge was to map the output of the trained MLP with computer keys. We were trying out different methods by none of them were working properly. Then, we got introduced to an open-source library named <a href="https://pyautogui.readthedocs.io/en/latest/">PyAutoGUI</a> which helped us solve the final challenge. Finally, we could use all the keys of the keyboard with hand gestures. And, we played the dinosaur game in Google Chrome when there is no internet connection.<br/>
+<b>Approach:</b> One way to automate the process is to somehow map the muscle movements with computer keys. First of all, we looked into different sensors which can extract the signal from hand muscle movements. The most efficient one was Myo Band. Using the Myo Band, we analyzed the difference in signal distribution for muscle movements of different gestures. We trained a basic MLP using the signals as input and the gestures as labels and the performance were satisfactory. Back then, we were not acquainted with procedures of comparing baselines and related works. Now the challenge was to map the output of the trained MLP with computer keys. We were trying out different methods by none of them were working properly. Then, we got introduced to an open-source library named <a href="https://pyautogui.readthedocs.io/en/latest/">PyAutoGUI</a> which helped us solve the final challenge. Finally, we could use all the keys of the keyboard with hand gestures. And, we played the dinosaur game in Google Chrome when there is no internet connection.<br/>
 <b>Results:</b> <a href="https://www.youtube.com/watch?v=n4UVbqCXJlM">Video Link</a><br/>
 <img src="/projects/gesture-rec-myo/Stage1.PNG" width=43%><img src="/projects/gesture-rec-myo/Stage2.PNG" width=50%> <br/>
 <b>My Contribution:</b> Honestly, my contribution in this project compared to my best friend and teammate, <a href="https://www.researchgate.net/profile/Abir-Azad">Abir Azad</a>, is very little. But I am mentioning this project here because this was my first encounter with research and machine learning which turned out to be my main career focus later. I got to learn many things from this project. Moreover, this project brought my focus back to academia as I could see there are many interesting and challenging real-life problems to be solved.<br/>
-<em>Detailed report can be found <b><a href="/projects/gesture-rec-myo/Project Report.pdf">here</a></b>.</em> (This was the first academic project report of me and my team. So please bear with our amateur inconsistencies and errors.)</p>
+<em>Detailed report can be found <b><a href="/projects/gesture-rec-myo/Project Report.pdf">here</a></b>.</em> (This was my first academic project report. So please bear with our amateur inconsistencies and errors.)</p>
 
                                 </article>
                             
@@ -250,8 +274,8 @@ Other than AI, I also like to explore History, Theology, Geopolitics, Psychology
     <td>
         <img src="/images/research/license_plate.jpg" width=100%> <br/>
         <b>Real-time License Plate Recognition System for  Low Resource Video-based Applications</b> <br/>
-        <a href="https://www.researchgate.net/profile/Alif-Ashrafee">Alif Ashrafee</a>, 
-        <a href="https://www.researchgate.net/profile/Akib-Khan-5">Akib Mohammed Khan</a>, 
+        <a href="https://www.researchgate.net/profile/Alif-Ashrafee">Alif Ashrafee*</a>, 
+        <a href="https://www.researchgate.net/profile/Akib-Khan-5">Akib Mohammed Khan*</a>, 
         <b><a href="https://msi1427.github.io/">Mohammad Sabik Irbaz</a></b>,
         <a href="https://scholar.google.com/citations?user=zQKHA64AAAAJ">MD Abdullah Al Nasim</a> 
         <br/>
@@ -302,8 +326,8 @@ Other than AI, I also like to explore History, Theology, Geopolitics, Psychology
     <td>
         <img src="/images/research/nurse_care.jpg" width=90%> <br/>
         <b>Nurse Care Activity Recognition Based on Machine Learning Techniques Using Accelerometer Data</b> <br/>
-        <b><a href="https://msi1427.github.io/">Mohammad Sabik Irbaz</a></b>, 
-        <a href="https://www.researchgate.net/profile/Abir-Azad">Abir Azad</a>, 
+        <b><a href="https://msi1427.github.io/">Mohammad Sabik Irbaz*</a></b>, 
+        <a href="https://www.researchgate.net/profile/Abir-Azad">Abir Azad*</a>, 
         <a href="https://www.researchgate.net/profile/Tanjila-Alam-Sathi">Tanjila Alam Sathi</a>, 
         <a href="https://www.researchgate.net/profile/Lutfun-Lota-2">Lutfun Nahar Lota</a> 
         <br/>
