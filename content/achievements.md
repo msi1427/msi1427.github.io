@@ -38,7 +38,7 @@ title: Achievements
 <b>Runners Up</b>, among 77 teams, <a href="https://toph.co/c/iut-cpc-2019/standings">IUT Computer Programming Contest, 2019</a>
 </td></tr>
 <tr><td>
-<b>Runners Up</b>, among ~50 teams, INWED Tech Fest IUPC 2019
+<b>Runners Up</b>, among ~30 teams, INWED Tech Fest IUPC 2019
 </td></tr>
 </table>
 
