@@ -7,7 +7,7 @@ My current research interests revolve around **Natural Language Understanding (N
 Other than AI, I also like to explore History, Theology, Geopolitics, Psychology, Social Sciences and various STEM, medicine and healthcare-related topics in my leisure. As I consider myself a lifelong student of scientific research and development, I put myself on a ceaseless journey to unravel the mysteries of this convoluted universe so that I can bring positive changes to the world.
 
 ### Education:
-<span class="icon"> <img src="https://img.icons8.com/office/30/000000/graduation-cap.png"/> </span> **B.Sc in Computer Science and Engineering, 2021** <br/> 
+<span class="icon"> <img src="https://img.icons8.com/office/30/000000/graduation-cap.png"/> </span> **B.Sc in [Computer Science and Engineering](https://cse.iutoic-dhaka.edu/), 2021** <br/> 
 <span class="icon"> <img src="https://img.icons8.com/windows/32/000000/dot-logo.png"/> </span>Islamic University of Technology, Dhaka, Bangladesh
 
 ### Research Interests:

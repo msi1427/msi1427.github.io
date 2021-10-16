@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Publications
 ---
 Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLdULx4AAAAJ)**
 
@@ -26,7 +26,7 @@ Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLd
 <tr>
     <td>
         <img src="/images/research/bangla_chatbot.jpg" width=100%> <br/>
-        <b>End-to-End Natural Language Understanding Pipeline for Bangla Conversational Agent</b> <br/>
+        <b>End-to-End Natural Language Understanding Pipeline for Bangla Conversational Agents</b> <br/>
         <a href="https://www.researchgate.net/profile/Fahim-Khan-36">Fahim Shahriar Khan</a>, 
         <a href="https://www.researchgate.net/profile/Mueeze-Mushabbir">Mueeze Al Mushabbir</a>,
         <b><a href="https://msi1427.github.io/">Mohammad Sabik Irbaz</a></b>,  

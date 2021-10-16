@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Awards</title>
-      <link>/awards/</link>
+      <title>Achievements</title>
+      <link>/achievements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/awards/</guid>
-      <description></description>
+      <guid>/achievements/</guid>
+      <description>2021 Finalist, among 147 teams, AI For Bangla Challenge 2021. *Results of Final Round pending*2020 Champion, among ~20 teams, Nurse Care Activity Recognition Challenge 2020. *Won a trip to Japan. (Pending due to COVID-19)*S Rank in Toph. Violet Rank in Codechef. Expert Rank in Codeforces. 2nd Runners Up, among ~50 teams, EDU Inter University Programming Contest 20202nd Runners Up, among 25 teams, Britannia University Inter University Programming Contest 20202019 Runners Up, among 77 teams, IUT Computer Programming Contest, 2019Runners Up, among ~50 teams, INWED Tech Fest IUPC 20192018 6th, among 19 teams, NSU Power Programming 20187th, among 56 teams, IUT Computer Programming Contest 2018 2017 4th, among 42 teams, NEUB Inter University Programming Contest 2017OIC Scholarship 75% expense coverage for undergraduate studies at IUT [ ~2% acceptance rate ]</description>
     </item>
     
     <item>
@@ -30,7 +30,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/blogs/</guid>
-      <description></description>
+      <description>2021 Jun 31 ---- My Experience with Omdena Inc. </description>
     </item>
     
     <item>
@@ -60,7 +60,17 @@ Address: Baharchara, Cox&amp;rsquo;s Bazar, Chittagong, Bangladesh</description>
       
       <guid>/news/</guid>
       <description>Starting from September 2021 
-2021  24-Sep &amp;nbsp; Presented our paper on Real Time Face Recognition  in BIM 2021 .  14-Sep &amp;nbsp; Our paper on Bangla Conversational Agent  got accepted in IEEE ICMLA 2021 . </description>
+2021 Presented our paper on Real Time Face Recognition  in BIM 2021 .  14-Sep &amp;nbsp; Our paper on Bangla Conversational Agent  got accepted in IEEE ICMLA 2021 . </description>
+    </item>
+    
+    <item>
+      <title>Omdena</title>
+      <link>/omdena/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/omdena/</guid>
+      <description>My Experience with Omdena Inc.  Assalamualikum everyone, I have completed an 8-week NLP project with Omdena very recently. This post is intended to get folks to know about the platform and my experience throughout the journey. I am going to break down the post into 4 major parts giving answers to 4 frequently asked questions to anyone who worked with Omdena.
+What is Omdena Inc.? Omdena is a bottom-up collaborative platform to build AI.</description>
     </item>
     
     <item>
@@ -73,13 +83,13 @@ Address: Baharchara, Cox&amp;rsquo;s Bazar, Chittagong, Bangladesh</description>
     </item>
     
     <item>
-      <title>Research</title>
-      <link>/research/</link>
+      <title>Publications</title>
+      <link>/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/</guid>
+      <guid>/publications/</guid>
       <description>Updated list on Google Scholar
-2021 Real-time License Plate Recognition System for Low Resource Video-based Applications Alif Ashrafee*, Akib Mohammed Khan*, Mohammad Sabik Irbaz,MD Abdullah Al Nasim Conference Name --Under ReviewCite  Paper  Presentation   --PDF  End-to-End Natural Language Understanding Pipeline for Bangla Conversational Agent Fahim Shahriar Khan, Mueeze Al Mushabbir,Mohammad Sabik Irbaz, MD Abdullah Al Nasim Accepted in IEEE ICMLA 2021 Cite  Paper  Presentation   --PDF   Real-Time Face Recognition System for Remote Employee Tracking Mohammad Sabik Irbaz, MD Abdullah Al Nasim, Refat E FerdousPresented in BIM 2021 Cite  Paper   --Presentation   --PDF  2020 Nurse Care Activity Recognition Based on Machine Learning Techniques Using Accelerometer Data Mohammad Sabik Irbaz*, Abir Azad*, Tanjila Alam Sathi, Lutfun Nahar Lota Presented in UbiComp/ISWC HASCA 2020 Cite  DOI  Presentation  PDF  Paper Name Mohammad Sabik Irbaz, Author Name, Author Name, Author Name Presented in Conference Name Cite  DOI  Presentation  PDF   --</description>
+2021 Real-time License Plate Recognition System for Low Resource Video-based Applications Alif Ashrafee*, Akib Mohammed Khan*, Mohammad Sabik Irbaz,MD Abdullah Al Nasim Conference Name --Under ReviewCite  Paper  Presentation   --PDF  End-to-End Natural Language Understanding Pipeline for Bangla Conversational Agents Fahim Shahriar Khan, Mueeze Al Mushabbir,Mohammad Sabik Irbaz, MD Abdullah Al Nasim Accepted in IEEE ICMLA 2021 Cite  Paper  Presentation   --PDF   Real-Time Face Recognition System for Remote Employee Tracking Mohammad Sabik Irbaz, MD Abdullah Al Nasim, Refat E FerdousPresented in BIM 2021 Cite  Paper   --Presentation   --PDF  2020 Nurse Care Activity Recognition Based on Machine Learning Techniques Using Accelerometer Data Mohammad Sabik Irbaz*, Abir Azad*, Tanjila Alam Sathi, Lutfun Nahar Lota Presented in UbiComp/ISWC HASCA 2020 Cite  DOI  Presentation  PDF  Paper Name Mohammad Sabik Irbaz, Author Name, Author Name, Author Name Presented in Conference Name Cite  DOI  Presentation  PDF   --</description>
     </item>
     
     <item>
@@ -88,7 +98,7 @@ Address: Baharchara, Cox&amp;rsquo;s Bazar, Chittagong, Bangladesh</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/talks/</guid>
-      <description></description>
+      <description>2021 Jul 04 ---- At NLP Reading Summer&#39;21 on &#34;Attention Is All You Need&#34; paper by Vaswani et. al.[PDF] Mar 20 ---- At Applied Data Science and Machine Learning Workshop  by  Amar iSchool on Course Launch and ML in Production.[PDF] </description>
     </item>
     
   </channel>
