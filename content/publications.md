@@ -41,7 +41,7 @@ Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLd
 </tr> 
 <tr>
     <td>
-        <img src="/images/research/employee_tracking.PNG" width=70%> <br/>
+        <img src="/images/research/employee_tracking.PNG" width=50%> <br/>
         <b>Real-Time Face Recognition System for Remote Employee Tracking</b> <br/>
         <b><a href="https://msi1427.github.io/">Mohammad Sabik Irbaz</a></b>, 
         <a href="https://scholar.google.com/citations?user=zQKHA64AAAAJ">MD Abdullah Al Nasim</a>, 
