@@ -244,7 +244,7 @@ Other than AI, I also like to explore History, Theology, Geopolitics, Psychology
   <div class="doc-column">
     <h3> Research Experience </h3>
     <div class ="box">
-        <b>Fordham Human Centered AI Reseach Lab</b><br/>
+        <b>Fordham Human Centered AI Reserach Lab</b><br/>
         Department of CIS, Fordham University <br/>
         New York, USA <br/>
         <b>March, 2021 - Present</b> <br/>
@@ -337,7 +337,7 @@ Feel free to use this while applying through this link: <a href="https://omdena.
                                 <article id="projects">
                                     <h2 class="major">Projects</h2>
                                     
-                                    <p><em><b>Please read this before going through the projects.</b> <br/> I could not link the source code to some of the projects below due to client confidentiality or lab confidentiality. Everything related to a particular project is not described to the full extent here. I only discussed the motivation (why and how I or my team started working on this problem), problem statement (what the problem is/was in short), approach (not the formal version, just how I or my team approached the problem), results (final outcome) and my contribution (what exactly I did and learned new from this project). If you like any project below feel free to explore the GitHub repository and, if the link to the repository is not provided here, feel free to contact me for more details.</em> <br/></p>
+                                    <p><em><b>Please read this before going through the projects.</b> <br/> I could not link the source code to some of the projects below due to client confidentiality or lab confidentiality. Everything related to a particular project is not described to the full extent here. I only discussed the motivation (why and how I or my team started working on this problem), problem statement (what the problem is/was in short), approach (not the formal version, just how I or my team approached the problem), results (final outcome) and my contribution (what exactly I did). If you like any project below feel free to explore the GitHub repository and, if the link to the repository is not provided here, feel free to contact me for more details.</em> <br/></p>
 <!-- ### Title
 <table>
 <tr><td>
@@ -359,28 +359,99 @@ Feel free to use this while applying through this link: <a href="https://omdena.
 
 ### Data-centric approach for Explainability in Text Classification
 
-### Omdena Equilo Project
-
-### Explainability of Hate Speech and Reduction Recommender
-
-### COVID-19 Public Policy Stance Analysis
-
-### Original Transformer for Bengali Translation
-
-### Adobe Premiere Plugin for Automated Video Editing
-
-### End-to-End Natural Language Understanding Pipeline for Conversational Agents for Bangladesh
-
-### Real-time License Plate Recognition System for Low Resource Video-based Applications -->
+### Explainability of Hate Speech and Reduction Recommender -->
+<h3 id="adobe-premiere-plugin-for-automated-video-editing">Adobe Premiere Plugin for Automated Video Editing</h3>
+<table>
+<tr><td>
+<b>Timeline:</b> July 2021 - October 2021 <br/>
+<b>Motivation:</b> This was a client project during my time at Pioneer Alpha. My colleague for this project was Fahim Rahman. <br/>
+<b>Problem Statement:</b> Given some family photos and videos of their family events like weddings, we need to return the portion of the videos where the family members appear and also the appearance stats. <br/>
+<b>Approach:</b> We already had a face detection system up and running. We used the same system to detect the faces and then cropped the detected portions to generate thumbnails. For the latter part, we ran a frame-by-frame recognition and kept a count of the face stats on the way. We also kept track of which face appeared when. The consecutive timelines were merged and used as a range to crop the videos automatically. The timeline was sent back to the remote user. The main challenge of this project was to integrate the machine learning pipeline with the Adobe Premiere Plugin in real-time. We were able to face the challenges, complete the project and deliver the project successfully to the client. <br/>
+<img src="projects/adobe-plugin/arch.png" width=65%><br/>
+<b>Results:</b> The result snippets are not provided here due to client confidentiality. <br/>
+<b>My Contribution:</b> I worked on the local machine part of this project while my other colleague worked on the plugin part.. <br/>
+</td></tr>
+</table>
+<h3 id="original-transformer-for-bengali-translation">Original Transformer for Bengali Translation</h3>
+<table>
+<tr><td>
+<b>Timeline:</b> April 2021 - Present <br/>
+<b>Motivation:</b> I have scourged through many online sources and lectures to understand the logic behind <a href="https://arxiv.org/abs/1706.03762">Transfromers</a> by Vaswani et. al. Using the<a href="https://huggingface.co/">HuggingFace Transformers</a> and understanding what is happening underneath is not the same. So, I set two goals for this project (1) Understanding and documenting a brief summary of the transformers architecture clearly, (2) Use the transformer architecture for machine translation. <br/>
+<!-- <b>Problem Statement:</b> <br/> -->
+<b>Approach:</b> I went through different sources and compiled the ones which are comprehensive and easily tractable. Then I wrote a brief summary of what I understood. I also built all the architectural diagram from scratch because I believe this process forces us to look into things more critically. I also reimplemented the whole thing using PyTorch. <br/>
+<b>Results:</b> As for now, the first part of the project is done. And the second part is work in progress. <br/>
+<!-- <img src="" width=43%><br/> -->
+<b>My Contribution:</b> This is my solo learning project. <br/>
+<a href="https://github.com/msi1427/Original-Transformer-for-Bengali-Translation/blob/main/README.md"> <div class="button"> <b>Detailed Report</b> </div> </a>
+<a href="https://github.com/msi1427/Original-Transformer-for-Bengali-Translation"> <div class="button"> <b>GitHub Repo</b> </div> </a>
+<a href="http://localhost:1313/talks/transformer_sunlp21.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
+</td></tr>
+</table>
+<h3 id="omdena-equilo-project">Omdena Equilo Project</h3>
+<table>
+<tr><td>
+<b>Timeline:</b> April 2021 - June 2021 <br/>
+<b>Motivation:</b> I got selected for Omdena Equilo Project after an interview. Back then, most of my NLP knowledge was theoretical or on a small or mid scale project. I wanted to learn how things work on a large scale projects. Besides, the problem was interesting. More details about the project can be found in my <a href="#omdena"><b>Omdena Blog</b></a>. <br/>
+<b>Results:</b> In summary, we built a pipeline to systematically understand the gender inequality in organizations and recommend actions to prevent them. <br/>
+<img src="projects/omdena-equilo/pipeline.png" width=60%><br/>
+<a href="#omdena"> <div class="button"> <b>Detailed Report</b> </div> </a>
+</td></tr>
+</table>
+<h3 id="covid-19-public-policy-stance-analysis">COVID-19 Public Policy Stance Analysis</h3>
+<table>
+<tr><td>
+<b>Timeline:</b> March 2021 - Present <br/>
+<b>Motivation:</b> <a href="https://www.fordham.edu/info/29708/affiliates_for_research_consortium_on_disability/12021/ruhul_amin">Dr. Ruhul Amin</a> from Fordham University had an opening in his lab, <b>Fordham Human Centered AI Research Lab</b>, for this project. The problem seemed really interesting to me and I reached out to him. After a brief interview, we started working on the problem. As the project progressed, we have two more awesome collaborators, <a href="https://www.cs.cmu.edu/~akhudabu/">Dr. Ashique Khudabukhsh</a> and <a href="https://styx97.github.io/">Rupak Sarkar</a>. I am learning a lot working with them. <br/>
+<b>Problem Statement:</b> Is it possible to analyze the public stance on COVID-19 policies and the implications of it? <br/>
+<i><b>Since this is a work in progress, the details will be here after the completion of the project.</b></i>
+<!-- <b>Approach:</b> <br/>
+<b>Results:</b> <br/>
+<img src="" width=43%><br/>
+<b>My Contribution:</b> <br/>
+<a href=""> <div class="button"> <b>Detailed Report</b> </div> </a>
+<a href=""> <div class="button"> <b>GitHub Repo</b> </div> </a>
+<a href=""> <div class="button"> <b>Walkthrough</b> </div> </a>  -->
+</td></tr>
+</table>
+<h3 id="end-to-end-natural-language-understanding-pipeline-for-conversational-agents">End-to-End Natural Language Understanding Pipeline for Conversational Agents</h3>
+<table>
+<tr><td>
+<b>Timeline:</b> March 2021 - September 2021 <br/>
+<b>Motivation:</b> I got the opportunity to supervise this project during my time at Pioneer Alpha and I gladly took the opportunity as this project dealt with NLU in low-resource language like Bangla. NLU itself is a challenging NLP domain when a low-resource language is added it gets more challenging. The client of this project was Amar iSchool and my other two amazingly gifted collaborators were <a href="https://www.researchgate.net/profile/Fahim-Khan-36">Fahim Shahriar Khan</a> and <a href="https://www.researchgate.net/profile/Mueeze-Mushabbir">Mueeze Al Mushabbir</a>. <br/>
+<b>Problem Statement:</b> Using low-resource and skewed Bangla dataset for intent recognition and entity extraction, can we build an end-to-end multi-lingual (Bangla, Bangla Transliteration in English and English) conversational agent which can receive messages and send responses seamlessly as a Business Assistant for any business in Bangladesh?<br/>
+<b>Approach:</b> For this project, we had to work on the whole machine learning pipeline from Data Collection, Data Cleaning, ML Modeling to Deployment. We got a list of FAQs and their relevant answer from Amar iSchool employees. These FAQs were further analyzed, verified and annotated with entity and intent by our data analysts. We fine-tuned the <a href="https://arxiv.org/pdf/2004.09936.pdf">DIET architecture</a> on out dataset. For the whole process we used the <a href="https://rasa.com/">Rasa Open Source Framework</a> which also helped us achieve real-time performance through seamless processing. We also built a web app for the end-to-end interaction which will be used as a service provider for Bangladeshi clients.<br/>
+<b>Results:</b> <br/>Our work was accepted in <a href="https://www.icmla-conference.org/icmla21/index.html">IEEE ICMLA 2021</a> for oral presentation and based on this work we reached the final round of <a href="https://bangla.gov.bd/aiforbangla/"> AI For Bangla Challenge 2021</a>. <br/>
+<img src="projects/rasa-nlu/example.PNG" width=50%><br/>
+<b>My Contribution:</b> I was the supervisor of this project.<br/>
+<a href="https://arxiv.org/pdf/2107.05541.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
+<!-- <a href=""> <div class="button"> <b>GitHub Repo</b> </div> </a>
+<a href=""> <div class="button"> <b>Walkthrough</b> </div> </a>  -->
+</td></tr>
+</table>
+<h3 id="real-time-bangla-license-plate-recognition-system-for-low-resource-video-based-applications">Real-time Bangla License Plate Recognition System for Low Resource Video-based Applications</h3>
+<table>
+<tr><td>
+<b>Timeline:</b> March 2021 - October 2021 <br/>
+<b>Motivation:</b> I was introduced to this project during my time at Pioneer Alpha Ltd. I always look for opportunities to contribute to low resource and real-time research especially in my native language because these types of projects have a direct impact on society. Luckily I was appointed as the supervisor of this project. I had the opportunity to supervise two of my amazingly talented colleagues, <a href="https://www.researchgate.net/profile/Alif-Ashrafee">Alif Ashrafee</a> and <a href="https://www.researchgate.net/profile/Akib-Khan-5">Akib Mohammed Khan</a>, throughout the project. <br/>
+<b>Problem Statement:</b> Given a video feed of cars and motorcycles having Bangla license plates, can we teach the machine to identify and recognize license plate text? <br/>
+<b>Approach:</b> First of all, we collected necessary data. We compiled two types of datasets. One was images containing Bangla License Plates across Dhaka City and another was of videos from all over Bangladesh containing license plates. Thanks to the amazing Amar iSchool volunteers who helped us in this process. We used the image dataset for training and the video dataset was used for testing. Then, we manually drew bounding boxes of the images to train a license plate detector model. But all the models we were training were not achieving real-time inference speed. So, we used a weak binary classifier model trained on negative and positive samples of license plates as a wakeup mechanism which was used to invoke the bigger model. After this, there were two more stages that finally resulted in successful recognition. Our final pipeline (Cascade + SSDv2 + Vision API) achieved real-time speed with high accuracy. We also built a web app for the interaction which will be used as a service provider for Bangladeshi clients.<br/>
+<b>Results:</b> We presented our work in <a href="https://confbim.com/">BIM 2021</a>. <br/>
+<img src="projects/license-plate/pipeline.PNG" width=50%><br/>
+<b>My Contribution:</b> I was the supervisor of this project.<br/>
+<a href="https://arxiv.org/pdf/2108.08339.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
+<!-- <a href=""> <div class="button"> <b>GitHub Repo</b> </div> </a>
+<a href=""> <div class="button"> <b>Walkthrough</b> </div> </a>  -->
+</td></tr>
+</table>
 <h3 id="anime-vs-animation-vs-cgi">Anime vs Animation vs CGI</h3>
 <table>
 <tr><td>
 <b>Timeline:</b> March 2021 - April 2021 <br/>
-<b>Motivation:</b> Back in 2020, I used to be a weeb (someone who always watches and keeps tabs on Japanese animes). There is a common debate among weebs and anime haters. Anime haters see animes as mere animation nothing special. Though by March 2021 I stopped watching anime and other types of fictional shows, I wanted to put an end to this debate using logic and machine learning. <br/>
+<b>Motivation:</b> Back in 2020, I used to be a weeb (someone who always watches and keeps tabs on Japanese animes). There is a common debate among weebs and anime haters. Anime haters see animes as mere animation nothing special. Though by March 2021 I stopped watching animes and all other types of fictional shows, I wanted to put an end to this debate using logic and machine learning. <br/>
 <b>Problem Statement:</b> Given a frame from fictional shows, can the machine identify the difference between anime, animation and CGI scenes. <br/>
 <b>Approach:</b> I gathered data from google images using keywords and scraping techniques. The images went through preprocessing, augmentation and cleaning process. The <a href="https://docs.fast.ai/">fastai library</a> made many of these tasks very easy to conduct. For training, I fine-tuned a Resnet-50 model pretrained on ImageNet and at the end of the experiments achieved 80% accuracy. I also made a simple web-app for interactive interface.<br/>
 <b>Results:</b> <br/>
-<b>After this experiment, the debate should exist no more. Yes, they are very different is style.</b><br/>
+<b>After this experiment, the debate should exist no more. Yes, they are very different in style.</b><br/>
 <img src="projects/aacgi/landing_page.PNG" width=44%><img src="projects/aacgi/result_page.PNG" width=43%><br/>
 <b>My Contribution:</b> This was my solo project. <br/>
 <a href="https://github.com/msi1427/Anime-vs-Animation-vs-CGI/blob/main/README.md"> <div class="button"> <b>Detailed Report</b> </div> </a>
@@ -399,8 +470,8 @@ Feel free to use this while applying through this link: <a href="https://omdena.
 <img src="projects/face-rec/facerec.PNG" width=60%><br/>
 <b>My Contribution:</b> I worked on the whole implementation process while my other teammates helped me with organization process. <br/><br/>
 <a href="https://arxiv.org/pdf/2107.07576.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
-<a href=""> <div class="button"> <b>GitHub Repo</b> </div> </a>
-<a href=""> <div class="button"> <b>Walkthrough</b> </div> </a> 
+<!-- <a href=""> <div class="button"> <b>GitHub Repo</b> </div> </a> -->
+<!-- <a href=""> <div class="button"> <b>Walkthrough</b> </div> </a>  -->
 </td></tr>
 </table>
 <h3 id="automatic-radiology-report-generation">Automatic Radiology Report Generation</h3>
@@ -460,7 +531,7 @@ From here, we can come to two conclusion (1) the genres can be inferred from plo
 <tr><td>
 <b>Timeline:</b> June 2020 - September 2020 <br/>
 <b>Motivation:</b> After the completion of our Gesture Recognition project, we (me and my teammate <a href="https://www.researchgate.net/profile/Abir-Azad">Abir Azad</a>) were acquainted with sensor data. And by this time, we also completed the online course on <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a> and <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning </a> by <a href="https://www.andrewng.org/">Andrew Ng</a>. We had the basic knowledge of machine learning but we did not have enough practical knowledge. Since we were acquainted with ML and accelerometer data, <a href="https://cse.iutoic-dhaka.edu/profile/lota/educations">Professor Lota</a> recruited us in her team of participants in the <a href = "https://abc-research.github.io/nurse2020/"><b>Second Nurse Care Activity Recognition Challenge 2020</b></a>. Our team name was <b>Moonshot_BD</b><br/>
-<b>Problem Statement:</b> Given the sensor data from the accelerometer with time used by nurses in elder care homes and the manual timetable of different activities by the nurses, is it possible to automate the time-tracking process with high efficiency. <br/>
+<b>Problem Statement:</b> Given the sensor data from accelerometer with time used by nurses in elder care homes and the manual timetable of different activities by the nurses, is it possible to automate the time-tracking process with high efficiency. <br/>
 <b>Approach:</b> The challenge provided us with two raw datasets. One dataset was containing the accelerometer data (x,y,z-axis) with day and time used by the nurses. Another one contained the start and end of an activity. The dataset was imbalanced and small. First of all, we merged using the start and end times of the second dataset. The resulted dataset contained the accelerometer data (x,y,z-axis) and the activity labels. Then we extracted different features from the data. We trained our models using the features. Since the data was small, we only tried out traditional machine learning models like KNNs, Naive Bayes, Random Forest, SVM, and basic MLP. Our intuition behind not using more parameterized models was that the model might overfit. And since we just had one chance to submit the results, we did not take the chance. When the result got published our suspicion was correct. Our basic MLP won the challenge leaving behind several overly parameterized models. Later we published and presented our work in <b><a href="https://ubicomp.org/ubicomp2020">UbiComp/ISWC HASCA 2020</a></b>. <br/>
 <b>Results:</b> <a href="https://abc-research.github.io/nurse2020/results/"><b>Result Announcement Link</b></a> <br/>
 <img src="projects/nurse-care/announcement.PNG" width=50%><br/>
@@ -499,7 +570,7 @@ From here, we can come to two conclusion (1) the genres can be inferred from plo
 <tr>
     <td>
         <img src="/images/research/license_plate.jpg" width=100%> <br/>
-        <b>Real-time License Plate Recognition System for  Low Resource Video-based Applications</b> <br/>
+        <b>Real-time Bangla License Plate Recognition System for Low Resource Video-based Applications</b> <br/>
         <a href="https://www.researchgate.net/profile/Alif-Ashrafee">Alif Ashrafee*</a>, 
         <a href="https://www.researchgate.net/profile/Akib-Khan-5">Akib Mohammed Khan*</a>, 
         <b><a href="https://msi1427.github.io/">Mohammad Sabik Irbaz</a></b>,
