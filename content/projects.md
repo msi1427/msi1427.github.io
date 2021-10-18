@@ -60,10 +60,10 @@ title: Projects
 <table>
 <tr><td>
 <b>Timeline:</b> April 2021 - June 2021 <br/>
-<b>Motivation:</b> I got selected for Omdena Equilo Project after an interview. Back then, most of my NLP knowledge was theoretical or on a small or mid scale project. I wanted to learn how things work on a large scale projects. Besides, the problem was interesting. More details about the project can be found in my <a href="#omdena"><b>Omdena Blog</b></a>. <br/>
+<b>Motivation:</b> I got selected for Omdena Equilo Project after an interview. Back then, most of my NLP knowledge was theoretical or on a small or mid scale project. I wanted to learn how things work on a large scale projects. Besides, the problem was interesting. More about the project can be found in my <a href="#omdena"><b>Omdena Blog</b></a>. <br/>
 <b>Results:</b> In summary, we built a pipeline to systematically understand the gender inequality in organizations and recommend actions to prevent them. <br/>
 <img src="projects/omdena-equilo/pipeline.png" width=60%><br/>
-<a href="#omdena"> <div class="button"> <b>Detailed Report</b> </div> </a>
+<a href="projects/omdena-equilo/unofficial_omdena_article.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
 </td></tr>
 </table>
 
