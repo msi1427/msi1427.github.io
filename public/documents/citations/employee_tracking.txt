@@ -1,6 +1,0 @@
-@article{irbaz2021real,
-  title={Real-Time Face Recognition System for Remote Employee Tracking},
-  author={Irbaz, Mohammad Sabik and Nasim, MD and Ferdous, Refat E},
-  journal={arXiv preprint arXiv:2107.07576},
-  year={2021}
-}

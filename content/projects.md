@@ -2,7 +2,7 @@
 title: Projects
 ---
 
-<div class ="box">
+<!-- <div class ="box">
     <b>||</b>&nbsp;<a href="">            <b>Home</b>  </a> &nbsp;<b>//</b>
     </b>&nbsp;<a href="#bio">             <b>Bio</b>  </a> &nbsp; <b>//</b>
     &nbsp;<a href="#news">                <b>News</b> </a> &nbsp; <b>//</b>
@@ -14,7 +14,7 @@ title: Projects
     &nbsp;<a href="#talks">               <b>Talks</b>    </a> &nbsp; <b>//</b>
     &nbsp;<a href="#extracurriculars">    <b>Extracurriculars</b>    </a> &nbsp; <b>//</b>
     &nbsp;<a href="#contacts">            <b>Contacts</b> </a> &nbsp; <b>||</b>
-</div>
+</div> -->
 
 *<b>Please read this before going through the projects.</b> <br/> I could not link the source code to some of the projects below due to client confidentiality or lab confidentiality. Everything related to a particular project is not described to the full extent here. I only discussed the motivation (why and how I or my team started working on this problem), problem statement (what the problem is/was in short), approach (not the formal version, just how I or my team approached the problem), results (final outcome) and my contribution (what exactly I did). If you like any project below feel free to explore the GitHub repository and, if the link to the repository is not provided here, feel free to contact me for more details.* <br/>
 

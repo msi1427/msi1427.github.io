@@ -2,7 +2,7 @@
 title: Blogs
 ---
 
-<div class ="box">
+<!-- <div class ="box">
     <b>||</b>&nbsp;<a href="">            <b>Home</b>  </a> &nbsp;<b>//</b>
     </b>&nbsp;<a href="#bio">             <b>Bio</b>  </a> &nbsp; <b>//</b>
     &nbsp;<a href="#news">                <b>News</b> </a> &nbsp; <b>//</b>
@@ -14,7 +14,8 @@ title: Blogs
     &nbsp;<a href="#talks">               <b>Talks</b>    </a> &nbsp; <b>//</b>
     &nbsp;<a href="#extracurriculars">    <b>Extracurriculars</b>    </a> &nbsp; <b>//</b>
     &nbsp;<a href="#contacts">            <b>Contacts</b> </a> &nbsp; <b>||</b>
-</div>
+</div> -->
+
 ## 2021
 <table>
 <tr><td>

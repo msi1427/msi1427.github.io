@@ -2,7 +2,7 @@
 title: Bio
 ---
 
-<div class ="box">
+<!-- <div class ="box">
     <b>||</b>&nbsp;<a href="">            <b>Home</b>  </a> &nbsp;<b>//</b>
     </b>&nbsp;<a href="#bio">             <b>Bio</b>  </a> &nbsp; <b>//</b>
     &nbsp;<a href="#news">                <b>News</b> </a> &nbsp; <b>//</b>
@@ -14,7 +14,7 @@ title: Bio
     &nbsp;<a href="#talks">               <b>Talks</b>    </a> &nbsp; <b>//</b>
     &nbsp;<a href="#extracurriculars">    <b>Extracurriculars</b>    </a> &nbsp; <b>//</b>
     &nbsp;<a href="#contacts">            <b>Contacts</b> </a> &nbsp; <b>||</b>
-</div>
+</div> -->
 
 Assalamu Alaikum (May peace be upon you), <br/> <br/>
 I am Mohammad Sabik Irbaz, born and raised in Bangladesh, near the longest sea-beach in the world, Cox's Bazar. You can call me **Sabik**. I am an independent Machine Learning (ML) researcher mainly focused on **Natural Language Processing (NLP)**. Currently, I am working as the head course instructor of **Applied Data Science and Machine Learning** at [Amar iSchool](https://amarischool.com/), an online educational platform where we empower the ML enthusiasts with a limited background knowledge of Computer Science and Mathematics. I used to work as a **Lead Machine Learning Engineer** at *[Omdena Inc.](https://omdena.com/)* and *[Pioneer Alpha Ltd.](https://pioneeralpha.com/)*. <br/> <br/>
