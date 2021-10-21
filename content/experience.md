@@ -2,17 +2,30 @@
 title: Experience
 ---
 
+<div class ="box">
+    <b>||</b>&nbsp;<a href="#bio">                 <b>Bio</b>  </a> &nbsp; &nbsp;<b>//</b>&nbsp;
+    &nbsp;<a href="#news">                <b>News</b> </a> &nbsp; &nbsp;<b>//</b>&nbsp;
+    &nbsp;<a href="#experience">          <b>Experience</b> </a> &nbsp; &nbsp; &nbsp;<b>//</b>&nbsp;
+    &nbsp;<a href="#publications">        <b>Publications</b> </a> &nbsp; &nbsp; <b>//</b>&nbsp;
+    &nbsp;<a href="#projects">            <b>Projects</b> </a> &nbsp; &nbsp;<b>//</b>&nbsp;
+    &nbsp;<a href="#achievements">        <b>Achievements</b> </a> &nbsp; &nbsp;<b>//</b>&nbsp;
+    &nbsp;<a href="#blogs">               <b>Blogs</b> </a> &nbsp; &nbsp;<b>//</b>&nbsp;
+    &nbsp;<a href="#talks">               <b>Talks</b>    </a> &nbsp; &nbsp;<b>//</b>&nbsp;
+    &nbsp;<a href="#extracurriculars">    <b>Extracurriculars</b>    </a> &nbsp; &nbsp;<b>//</b>&nbsp;
+    &nbsp;<a href="#contacts">            <b>Contacts</b> </a> &nbsp; <b>||</b>
+</div>
+
 <div class="doc-row">
   <div class="doc-column">
     <h3> Industry Experience </h3>
     <div class ="box">
         <a href="https://pioneeralpha.com/"> <b> Pioneer Alpha Ltd.</b> </a>, Dhaka, Bangladesh <br/>
-        Lead Machine Learning Engineer, Full Time <br/>
+        Lead Machine Learning Engineer <br/>
         <b>January, 2021 - September, 2021</b> <br/> <br/>
     </div>
     <div class ="box">
         <a href="https://omdena.com/"> <b> Omdena Inc.</b> </a>, New York, USA <br/>
-        Lead Machine Learning Engineer, Part Time <br/>
+        Lead Machine Learning Engineer <br/>
         <b>April, 2021 - June, 2021</b> <br/> <br/>
     </div>
     <div class ="box">
@@ -25,7 +38,7 @@ title: Experience
   <div class="doc-column">
     <h3> Research Experience </h3>
     <div class ="box">
-        <b>Fordham Human Centered AI Reserach Lab</b><br/>
+        <b>Fordham Human Centered AI Research Lab</b><br/>
         Department of CIS, Fordham University <br/>
         New York, USA <br/>
         <b>March, 2021 - Present</b> <br/>
