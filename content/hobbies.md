@@ -48,6 +48,8 @@ I picked up my interest in traveling and photography (nature and/or abstract) mo
 <img src="photography/old_dhaka.jpg" width=33%>
 <img src="photography/stuck.jpg" width=33%>
 
+<br/>
+
 ### Memes
 I love making fun of unfavorable and ironic situations which I fall into in my day-to-day life to turn those into funny materials. Browsing and making memes related to my life gives me moments of joy and helps me get rid of imposter syndrome. Not all memes are for fun. Some memes are there for a tribute or respect. I personally use memes to teach and learn. <br/>
 *Random thought: ML researchers should look into "Learning with Memes" method. I still don't know if it will work or not, but for a human, this seems very effective. As far as I can think of, this method can be useful for Grounding Language research.*
