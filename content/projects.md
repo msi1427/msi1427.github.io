@@ -20,13 +20,23 @@ title: Projects
 </td></tr>
 </table> -->
 
-<!-- ### Intended Sarcasm Detection in Arabic and English.
+<!-- 
+### Intended Sarcasm Detection in Arabic and English
 
 ### Logical Reasoning Question Answering using Standardized Test Questions
 
 ### Data-centric approach for Explainability in Text Classification
 
-### Explainability of Hate Speech and Reduction Recommender -->
+### Explainability of Hate Speech and Reduction Recommender
+
+### Data-Centric Approach for Medical Expertise Style Transfer
+
+### Negative Data Augmentation for NLP
+
+### Radiology Report Generation
+
+### Query-focused Text Summarization for Bangla
+-->
 
 ### Adobe Premiere Plugin for Automated Video Editing
 <table>
@@ -150,19 +160,17 @@ title: Projects
 </td></tr>
 </table>
 
-### Automatic Radiology Report Generation
+### Radiology Report Generation using Full Transformer Architecture
 <table>
 <tr><td>
-<b>Timeline:</b> January 2021 - Present <br/>
+<b>Timeline:</b> November 2021 - March 2021 <br/>
 <b>Motivation:</b> From the beginning of 2020, we are in a pandemic situation. The condition is much worse in 3rd world countries like Bangladesh. I and my friend, <a href="https://www.researchgate.net/profile/Abir-Azad">Abir Azad</a>, were trying to contribute somehow to the case. We found out that most of the diagnosis reports come out late because of human latency. There are much more patients than doctors, nurses, and health workers. We were looking to contribute to automatic diagnosis report generation research and found <a href="https://physionet.org/content/mimic-cxr/2.0.0/">MIMIC-CXR</a> dataset by Johnson et. al. dealing with radiology report generation. We presented this issue to our Pattern Recognition project supervisor, <a href = "https://cse.iutoic-dhaka.edu/profile/sabbir/educations">Sabbir Ahmed</a>. Under his supervision, we started working on this problem. <br/>
 <b>Problem Statement:</b> Given an X-Ray image can the machine learn to understand and generate a medical report from it? <br/>
-<b>Approach:</b> To get access to the database, we needed to pass <a href="images/certificates/citi_certificate.pdf"><b>CITI certification</b></a> test so that someone using the dataset understand the implications and ethics of using it. After that, we were given access by the database moderators. The dataset was challenging and required a huge understanding of details. We analyzed and process the dataset but could not use the full version because of hardware deficiencies. For generation task, we used <a href="https://arxiv.org/pdf/2010.11929.pdf">Vision Transformer</a> by Dosovitskiy et. al. as an encoder to understand the X-Ray images. and Transformer Decoder for generation task. Our intuition behind using Vision Transformer(ViT) was that ViT divides images into patches that might recognize better localized spatial structure which is necessary for X-Ray images. Our whole system was end-to-end. <br/>
+<b>Approach:</b> To get access to the database, we needed to pass <a href="images/certificates/citi_certificate.pdf"><b>CITI certification</b></a> test so that someone using the dataset understand the implications and ethics of using it. After that, we were given access by the database moderators. The dataset was challenging and required a huge understanding of details. We analyzed and process the dataset but could not use the full version because of hardware deficiencies. For generation task, we used <a href="https://arxiv.org/pdf/2010.11929.pdf">Vision Transformer</a> by Dosovitskiy et. al. as an encoder to understand the X-Ray images. and Transformer Decoder for generation task. Our intuition behind using Vision Transformer(ViT) was that ViT divides images into patches that might recognize better localized spatial structure which is necessary for X-Ray images. Our whole system was end-to-end. And we achieved the closer level of performance with low amount of data. <br/>
 <b>Results:</b> <br/>
-<b><i> Point to be noted :: This project is still a work in progress. The results shown below are on our baseline approach. <br/>
-We are working with our supervisor for better explainable results. </i></b> <br/>
 <img src="projects/radiology-report-gen/arch.PNG" width=23%>
 <img src="projects/radiology-report-gen/results.PNG" width=70%><br/>
-<b>My Contribution:</b> I am working on the model architecture and how to make the results explainable. <br/><br/>
+<b>My Contribution:</b> I am worked on the model architecture designing and training portion. <br/><br/>
 <a href="projects/radiology-report-gen/Project_Baseline_Report.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
 <a href="projects/radiology-report-gen/baseline_report_presentation.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
 </td></tr>
@@ -171,16 +179,15 @@ We are working with our supervisor for better explainable results. </i></b> <br/
 ### Medical Expertise Style Transfer System for Layman Patients
 <table>
 <tr><td>
-<b>Timeline:</b> October 2020 - Present <br/>
+<b>Timeline:</b> October 2020 - March 2021 <br/>
 <b>Motivation:</b> There is always a big communication gap between experts and laymen in any domain. In the medical domain, this problem is considered high stakes because patients who are not experts need to understand what the doctor prescribes them. Moreover, this problem is not localized, it is worldwide. For our undergraduate dissertation, I and my teammates conducted research on expertise style transfer in the medical domain upon discussion with our supervisor, <a href="https://cse.iutoic-dhaka.edu/profile/kamrul/educations">Dr. Kamrul Hasan</a>.  <br/>
 <b>Problem Statement:</b> Given an expert style text can the machine learn to transfer it into layman style preserving the content? <br/>
-<b>Approach:</b> We started exploring the most recent Medical Expertise Style Transfer dataset, <a href="https://aclanthology.org/2020.acl-main.100.pdf">MSD Dataset</a>, by Cao et. al. We came up with an approach like "Fill in The Blanks". Using an expertise classifier, we were masking expert words. Using a language model finetuned on laymen corpus, we were filling the gaps with the most relevant words. This method gave up competitive performance but not the best. We are currently looking into a data-centric active learning approach to make this task more tractable and efficient. <br/>
+<b>Approach:</b> We started exploring the most recent Medical Expertise Style Transfer dataset, <a href="https://aclanthology.org/2020.acl-main.100.pdf">MSD Dataset</a>, by Cao et. al. We came up with an approach like "Fill in The Blanks". Using an expertise classifier, we were masking expert words. Using a language model finetuned on laymen corpus, we were filling the gaps with the most relevant words. This method availed competitive performance but not the best in all metrics. <br/>
 <b>Results:</b> <br/>
-<b><i> Point to be noted :: This project is still a work in progress. <br/>The results shown below are on our previous "Fill in the Blanks" approach.</i></b> <br/>
 <img src="projects/medical-tst/results.PNG" width=67%><br/>
 <img src="projects/medical-tst/success.PNG" width=45%>
 <img src="projects/medical-tst/failure.PNG" width=41.5%><br/>
-<b>My Contribution:</b> I am mainly working on the active learning data-centric pipeline.<br/><br/>
+<b>My Contribution:</b> I mostly worked on the model designing approaches.<br/><br/>
 <a href="projects/medical-tst/medical_tst_report.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
 <a href="https://github.com/msi1427/Medical-Expertise-Style-Transfer-System-for-Layman-Patients"> <div class="button"> <b>GitHub Repo</b> </div> </a>
 <a href="projects/medical-tst/medical_tst_pres.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
@@ -235,7 +242,10 @@ From here, we can come to two conclusion (1) the genres can be inferred from plo
 *Detailed report can be found <b><a href="/projects/gesture-rec-myo/Project Report.pdf">here</a></b>.* (This was my first academic project report. So please bear with our amateur inconsistencies and errors.) <br/>
 </td></tr>
 </table>
-
+<br/>
+<br/>
+<br/>
+<br/>
 <div class ="box">
     &nbsp;<a href="">            <b>Home</b>  </a> &nbsp;<b>//</b>
     </b>&nbsp;<a href="#bio">             <b>Bio</b>  </a> &nbsp; <b>//</b>

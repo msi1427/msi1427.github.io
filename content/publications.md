@@ -2,21 +2,29 @@
 title: Publications
 ---
 
-<!-- <div class ="box">
-    <b>||</b>&nbsp;<a href="">            <b>Home</b>  </a> &nbsp;<b>//</b>
-    </b>&nbsp;<a href="#bio">             <b>Bio</b>  </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#news">                <b>News</b> </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#experience">          <b>Experience</b> </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#achievements">        <b>Achievements</b> </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#publications">        <b>Publications</b> </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#projects">            <b>Projects</b> </a> &nbsp;<b>//</b>
-    &nbsp;<a href="#blogs">               <b>Blogs</b> </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#talks">               <b>Talks</b>    </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#extracurriculars">    <b>Extracurriculars</b>    </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#contacts">            <b>Contacts</b> </a> &nbsp; <b>||</b>
-</div> -->
-
 Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLdULx4AAAAJ)**
+
+
+<!-- 
+<tr>
+    <td>
+        <img src="/images/research/" width=90%> <br/>
+        <b>Paper Name</b> <br/>
+        <b><a href="https://msi1427.github.io/">Mohammad Sabik Irbaz</a></b>, 
+        <a href="author_id url">Author Name</a>, 
+        <a href="author_id url">Author Name</a>, 
+        <a href="author_id url">Author Name</a> 
+        <br/>
+        Presented in <b><a href="conference url">Conference Name</a></b> 
+        <br/><br/>
+        <a href="documents/citations/"> <div class="button"> <b>Cite</b> </div> </a>
+        <a href="DOI"> <div class="button"> <b>DOI</b> </div> </a>
+        <a href="documents/presentations/"> <div class="button"> <b>Presentation</b> </div> </a>
+        <a href="Preprint Link"> <div class="button"> <b>PDF</b> </div> </a>
+    </td>
+</tr> 
+-->
+
 
 ## 2021
 <table>
@@ -90,26 +98,11 @@ Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLd
     </td>
 </tr>
 </table>
-<!-- 
-<tr>
-    <td>
-        <img src="/images/research/" width=90%> <br/>
-        <b>Paper Name</b> <br/>
-        <b><a href="https://msi1427.github.io/">Mohammad Sabik Irbaz</a></b>, 
-        <a href="author_id url">Author Name</a>, 
-        <a href="author_id url">Author Name</a>, 
-        <a href="author_id url">Author Name</a> 
-        <br/>
-        Presented in <b><a href="conference url">Conference Name</a></b> 
-        <br/><br/>
-        <a href="documents/citations/"> <div class="button"> <b>Cite</b> </div> </a>
-        <a href="DOI"> <div class="button"> <b>DOI</b> </div> </a>
-        <a href="documents/presentations/"> <div class="button"> <b>Presentation</b> </div> </a>
-        <a href="Preprint Link"> <div class="button"> <b>PDF</b> </div> </a>
-    </td>
-</tr> 
--->
 
+<br/>
+<br/>
+<br/>
+<br/>
 <div class ="box">
     &nbsp;<a href="">            <b>Home</b>  </a> &nbsp;<b>//</b>
     </b>&nbsp;<a href="#bio">             <b>Bio</b>  </a> &nbsp; <b>//</b>

@@ -8,6 +8,9 @@ title: Achievements
 <b>Finalist</b>, among 147 teams, <a href="https://bangla.gov.bd/aiforbangla/"> AI For Bangla Challenge 2021</a>. <br/>
 *Results of Final Round pending*
 </td></tr>
+<tr><td>
+<b>10th</b>, among 49 teams, <a href="https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications/leaderboards"> Multi-Agent Behavior Challenge 2021</a>. <br/>
+</td></tr>
 </table>
 
 ## 2020
@@ -63,7 +66,10 @@ title: Achievements
 75% expense coverage for undergraduate studies at <a href="https://cse.iutoic-dhaka.edu/">IUT</a> [<i> ~2% acceptance rate </i>]
 </td></tr>
 </table>
-
+<br/>
+<br/>
+<br/>
+<br/>
 <div class ="box">
     &nbsp;<a href="">            <b>Home</b>  </a> &nbsp;<b>//</b>
     </b>&nbsp;<a href="#bio">             <b>Bio</b>  </a> &nbsp; <b>//</b>

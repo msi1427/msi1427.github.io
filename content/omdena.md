@@ -55,7 +55,10 @@ Thanks a lot to Omdena for everything.
 <b>Official Certificate of Achievement</b> <br/>
 <img src="images/certificates/omdena_lead_ml.png" width=75%>
 
-
+<br/>
+<br/>
+<br/>
+<br/>
 <div class ="box">
     &nbsp;<a href="">            <b>Home</b>  </a> &nbsp;<b>//</b>
     </b>&nbsp;<a href="#bio">             <b>Bio</b>  </a> &nbsp; <b>//</b>
