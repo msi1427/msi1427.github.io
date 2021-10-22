@@ -2,20 +2,6 @@
 title: News
 ---
 
-<!-- <div class ="box">
-    <b>||</b>&nbsp;<a href="">            <b>Home</b>  </a> &nbsp;<b>//</b>
-    </b>&nbsp;<a href="#bio">             <b>Bio</b>  </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#news">                <b>News</b> </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#experience">          <b>Experience</b> </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#achievements">        <b>Achievements</b> </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#publications">        <b>Publications</b> </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#projects">            <b>Projects</b> </a> &nbsp;<b>//</b>
-    &nbsp;<a href="#blogs">               <b>Blogs</b> </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#talks">               <b>Talks</b>    </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#extracurriculars">    <b>Extracurriculars</b>    </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#contacts">            <b>Contacts</b> </a> &nbsp; <b>||</b>
-</div> -->
-
 *Starting from September 2021* <br/>
 
 ## 2021
@@ -24,6 +10,16 @@ title: News
 <tr><td> <b>14-Sep</b> &nbsp; Our paper on <a href="https://arxiv.org/pdf/2107.05541.pdf"> <b>Bangla Conversational Agent</b> </a> got accepted in <a href="https://www.icmla-conference.org/icmla21/index.html"> <b>IEEE ICMLA 2021 </b></a>. <br/></td></tr>
 </table>
 
-
-
-
+<div class ="box">
+    &nbsp;<a href="">            <b>Home</b>  </a> &nbsp;<b>//</b>
+    </b>&nbsp;<a href="#bio">             <b>Bio</b>  </a> &nbsp; <b>//</b>
+    &nbsp;<a href="#news">                <b>News</b> </a> &nbsp; <b>//</b>
+    &nbsp;<a href="#experience">          <b>Experience</b> </a> &nbsp; <b>//</b>
+    &nbsp;<a href="#achievements">        <b>Achievements</b> </a> &nbsp; <b>//</b>
+    &nbsp;<a href="#publications">        <b>Publications</b> </a> &nbsp; <b>//</b>
+    &nbsp;<a href="#projects">            <b>Projects</b> </a> &nbsp;<b>//</b>
+    &nbsp;<a href="#blogs">               <b>Blogs</b> </a> &nbsp; <b>//</b>
+    &nbsp;<a href="#talks">               <b>Talks</b>    </a> &nbsp; <b>//</b>
+    &nbsp;<a href="#hobbies">             <b>Hobbies</b>    </a> &nbsp; <b>//</b>
+    &nbsp;<a href="#contacts">            <b>Contacts</b> </a> &nbsp;
+</div>

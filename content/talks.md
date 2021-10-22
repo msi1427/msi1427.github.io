@@ -2,20 +2,6 @@
 title: Talks
 ---
 
-<!-- <div class ="box">
-    <b>||</b>&nbsp;<a href="">            <b>Home</b>  </a> &nbsp;<b>//</b>
-    </b>&nbsp;<a href="#bio">             <b>Bio</b>  </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#news">                <b>News</b> </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#experience">          <b>Experience</b> </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#achievements">        <b>Achievements</b> </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#publications">        <b>Publications</b> </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#projects">            <b>Projects</b> </a> &nbsp;<b>//</b>
-    &nbsp;<a href="#blogs">               <b>Blogs</b> </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#talks">               <b>Talks</b>    </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#extracurriculars">    <b>Extracurriculars</b>    </a> &nbsp; <b>//</b>
-    &nbsp;<a href="#contacts">            <b>Contacts</b> </a> &nbsp; <b>||</b>
-</div> -->
-
 ## 2021
 <table>
 <tr><td>
@@ -27,3 +13,18 @@ title: Talks
 <a href="/talks/adsml_workshop.pdf"> <b>[PDF]</b> </a>
 </td></tr>
 </table>
+
+
+<div class ="box">
+    &nbsp;<a href="">            <b>Home</b>  </a> &nbsp;<b>//</b>
+    </b>&nbsp;<a href="#bio">             <b>Bio</b>  </a> &nbsp; <b>//</b>
+    &nbsp;<a href="#news">                <b>News</b> </a> &nbsp; <b>//</b>
+    &nbsp;<a href="#experience">          <b>Experience</b> </a> &nbsp; <b>//</b>
+    &nbsp;<a href="#achievements">        <b>Achievements</b> </a> &nbsp; <b>//</b>
+    &nbsp;<a href="#publications">        <b>Publications</b> </a> &nbsp; <b>//</b>
+    &nbsp;<a href="#projects">            <b>Projects</b> </a> &nbsp;<b>//</b>
+    &nbsp;<a href="#blogs">               <b>Blogs</b> </a> &nbsp; <b>//</b>
+    &nbsp;<a href="#talks">               <b>Talks</b>    </a> &nbsp; <b>//</b>
+    &nbsp;<a href="#hobbies">             <b>Hobbies</b>    </a> &nbsp; <b>//</b>
+    &nbsp;<a href="#contacts">            <b>Contacts</b> </a> &nbsp;
+</div>
