@@ -25,9 +25,9 @@ title: Projects
 
 ### Logical Reasoning Question Answering using Standardized Test Questions
 
-### Data-centric approach for Explainability in Text Classification
+### Data-centric approach for Explainabile Text Classification 
 
-### Explainability of Hate Speech and Reduction Recommender
+### Mitigating Social Bias in NLP
 
 ### Data-Centric Approach for Medical Expertise Style Transfer
 
@@ -38,35 +38,6 @@ title: Projects
 ### Query-focused Text Summarization for Bangla
 -->
 
-### Adobe Premiere Plugin for Automated Video Editing
-<table>
-<tr><td>
-<b>Timeline:</b> July 2021 - October 2021 <br/>
-<b>Motivation:</b> This was a client project during my time at Pioneer Alpha. My colleague for this project was Fahim Rahman. <br/>
-<b>Problem Statement:</b> Given some family photos and videos of their family events like weddings, we need to return the portion of the videos where the family members appear and also the appearance stats. <br/>
-<b>Approach:</b> We already had a face detection system up and running. We used the same system to detect the faces and then cropped the detected portions to generate thumbnails. For the latter part, we ran a frame-by-frame recognition and kept a count of the face stats on the way. We also kept track of which face appeared when. The consecutive timelines were merged and used as a range to crop the videos automatically. The timeline was sent back to the remote user. The main challenge of this project was to integrate the machine learning pipeline with the Adobe Premiere Plugin in real-time. We were able to face the challenges, complete the project and deliver the project successfully to the client. <br/>
-<img src="projects/adobe-plugin/arch.png" width=65%><br/>
-<b>Results:</b> The result snippets are not provided here due to client confidentiality. <br/>
-<b>My Contribution:</b> I worked on the local machine part of this project while my other colleague worked on the plugin part.. <br/>
-</td></tr>
-</table>
-
-### Original Transformer for Bengali Translation
-<table>
-<tr><td>
-<b>Timeline:</b> April 2021 - Present <br/>
-<b>Motivation:</b> I have scourged through many online sources and lectures to understand the logic behind <a href="https://arxiv.org/abs/1706.03762">Transfromers</a> by Vaswani et. al. Using the<a href="https://huggingface.co/">HuggingFace Transformers</a> and understanding what is happening underneath is not the same. So, I set two goals for this project (1) Understanding and documenting a brief summary of the transformers architecture clearly, (2) Use the transformer architecture for machine translation. <br/>
-<!-- <b>Problem Statement:</b> <br/> -->
-<b>Approach:</b> I went through different sources and compiled the ones which are comprehensive and easily tractable. Then I wrote a brief summary of what I understood. I also built all the architectural diagram from scratch because I believe this process forces us to look into things more critically. I also reimplemented the whole thing using PyTorch. <br/>
-<b>Results:</b> As for now, the first part of the project is done. And the second part is work in progress. <br/>
-<!-- <img src="" width=43%><br/> -->
-<b>My Contribution:</b> This is my solo learning project. <br/>
-<a href="https://github.com/msi1427/Original-Transformer-for-Bengali-Translation/blob/main/README.md"> <div class="button"> <b>Detailed Report</b> </div> </a>
-<a href="https://github.com/msi1427/Original-Transformer-for-Bengali-Translation"> <div class="button"> <b>GitHub Repo</b> </div> </a>
-<a href="http://localhost:1313/talks/transformer_sunlp21.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
-</td></tr>
-</table>
-
 ### Omdena Equilo Project
 <table>
 <tr><td>
@@ -75,6 +46,24 @@ title: Projects
 <b>Results:</b> In summary, we built a pipeline to systematically understand the gender inequality in organizations and recommend actions to prevent them. <br/>
 <img src="projects/omdena-equilo/pipeline.png" width=60%><br/>
 <a href="projects/omdena-equilo/unofficial_omdena_article.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
+</td></tr>
+</table>
+
+### Medical Expertise Style Transfer System for Layman Patients
+<table>
+<tr><td>
+<b>Timeline:</b> October 2020 - March 2021 <br/>
+<b>Motivation:</b> There is always a big communication gap between experts and laymen in any domain. In the medical domain, this problem is considered high stakes because patients who are not experts need to understand what the doctor prescribes them. Moreover, this problem is not localized, it is worldwide. For our undergraduate dissertation, I and my teammates conducted research on expertise style transfer in the medical domain upon discussion with our supervisor, <a href="https://cse.iutoic-dhaka.edu/profile/kamrul/educations">Dr. Kamrul Hasan</a>.  <br/>
+<b>Problem Statement:</b> Given an expert style text can the machine learn to transfer it into layman style preserving the content? <br/>
+<b>Approach:</b> We started exploring the most recent Medical Expertise Style Transfer dataset, <a href="https://aclanthology.org/2020.acl-main.100.pdf">MSD Dataset</a>, by Cao et. al. We came up with an approach like "Fill in The Blanks". Using an expertise classifier, we were masking expert words. Using a language model finetuned on laymen corpus, we were filling the gaps with the most relevant words. This method availed competitive performance but not the best in all metrics. <br/>
+<b>Results:</b> <br/>
+<img src="projects/medical-tst/results.PNG" width=67%><br/>
+<img src="projects/medical-tst/success.PNG" width=45%>
+<img src="projects/medical-tst/failure.PNG" width=41.5%><br/>
+<b>My Contribution:</b> I mostly worked on the model designing approaches.<br/><br/>
+<a href="projects/medical-tst/medical_tst_report.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
+<a href="https://github.com/msi1427/Medical-Expertise-Style-Transfer-System-for-Layman-Patients"> <div class="button"> <b>GitHub Repo</b> </div> </a>
+<a href="projects/medical-tst/medical_tst_pres.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
 </td></tr>
 </table>
 
@@ -127,6 +116,35 @@ title: Projects
 </td></tr>
 </table>
 
+### Adobe Premiere Plugin for Automated Video Editing
+<table>
+<tr><td>
+<b>Timeline:</b> July 2021 - October 2021 <br/>
+<b>Motivation:</b> This was a client project during my time at Pioneer Alpha. My colleague for this project was Fahim Rahman. <br/>
+<b>Problem Statement:</b> Given some family photos and videos of their family events like weddings, we need to return the portion of the videos where the family members appear and also the appearance stats. <br/>
+<b>Approach:</b> We already had a face detection system up and running. We used the same system to detect the faces and then cropped the detected portions to generate thumbnails. For the latter part, we ran a frame-by-frame recognition and kept a count of the face stats on the way. We also kept track of which face appeared when. The consecutive timelines were merged and used as a range to crop the videos automatically. The timeline was sent back to the remote user. The main challenge of this project was to integrate the machine learning pipeline with the Adobe Premiere Plugin in real-time. We were able to face the challenges, complete the project and deliver the project successfully to the client. <br/>
+<img src="projects/adobe-plugin/arch.png" width=65%><br/>
+<b>Results:</b> The result snippets are not provided here due to client confidentiality. <br/>
+<b>My Contribution:</b> I worked on the local machine part of this project while my other colleague worked on the plugin part.. <br/>
+</td></tr>
+</table>
+
+### Original Transformer for Bengali Translation
+<table>
+<tr><td>
+<b>Timeline:</b> April 2021 - Present <br/>
+<b>Motivation:</b> I have scourged through many online sources and lectures to understand the logic behind <a href="https://arxiv.org/abs/1706.03762">Transfromers</a> by Vaswani et. al. Using the<a href="https://huggingface.co/">HuggingFace Transformers</a> and understanding what is happening underneath is not the same. So, I set two goals for this project (1) Understanding and documenting a brief summary of the transformers architecture clearly, (2) Use the transformer architecture for machine translation. <br/>
+<!-- <b>Problem Statement:</b> <br/> -->
+<b>Approach:</b> I went through different sources and compiled the ones which are comprehensive and easily tractable. Then I wrote a brief summary of what I understood. I also built all the architectural diagram from scratch because I believe this process forces us to look into things more critically. I also reimplemented the whole thing using PyTorch. <br/>
+<b>Results:</b> As for now, the first part of the project is done. And the second part is work in progress. <br/>
+<!-- <img src="" width=43%><br/> -->
+<b>My Contribution:</b> This is my solo learning project. <br/>
+<a href="https://github.com/msi1427/Original-Transformer-for-Bengali-Translation/blob/main/README.md"> <div class="button"> <b>Detailed Report</b> </div> </a>
+<a href="https://github.com/msi1427/Original-Transformer-for-Bengali-Translation"> <div class="button"> <b>GitHub Repo</b> </div> </a>
+<a href="http://localhost:1313/talks/transformer_sunlp21.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
+</td></tr>
+</table>
+
 ### Anime vs Animation vs CGI
 <table>
 <tr><td>
@@ -166,31 +184,13 @@ title: Projects
 <b>Timeline:</b> November 2021 - March 2021 <br/>
 <b>Motivation:</b> From the beginning of 2020, we are in a pandemic situation. The condition is much worse in 3rd world countries like Bangladesh. I and my friend, <a href="https://www.researchgate.net/profile/Abir-Azad">Abir Azad</a>, were trying to contribute somehow to the case. We found out that most of the diagnosis reports come out late because of human latency. There are much more patients than doctors, nurses, and health workers. We were looking to contribute to automatic diagnosis report generation research and found <a href="https://physionet.org/content/mimic-cxr/2.0.0/">MIMIC-CXR</a> dataset by Johnson et. al. dealing with radiology report generation. We presented this issue to our Pattern Recognition project supervisor, <a href = "https://cse.iutoic-dhaka.edu/profile/sabbir/educations">Sabbir Ahmed</a>. Under his supervision, we started working on this problem. <br/>
 <b>Problem Statement:</b> Given an X-Ray image can the machine learn to understand and generate a medical report from it? <br/>
-<b>Approach:</b> To get access to the database, we needed to pass <a href="images/certificates/citi_certificate.pdf"><b>CITI certification</b></a> test so that someone using the dataset understand the implications and ethics of using it. After that, we were given access by the database moderators. The dataset was challenging and required a huge understanding of details. We analyzed and process the dataset but could not use the full version because of hardware deficiencies. For generation task, we used <a href="https://arxiv.org/pdf/2010.11929.pdf">Vision Transformer</a> by Dosovitskiy et. al. as an encoder to understand the X-Ray images. and Transformer Decoder for generation task. Our intuition behind using Vision Transformer(ViT) was that ViT divides images into patches that might recognize better localized spatial structure which is necessary for X-Ray images. Our whole system was end-to-end. And we achieved the closer level of performance with low amount of data. <br/>
+<b>Approach:</b> To get access to the database, we needed to pass <a href="images/certificates/citi_certificate.pdf"><b>CITI certification</b></a> test so that someone using the dataset understand the implications and ethics of using it. After that, we were given access by the database moderators. The dataset was challenging and required a huge understanding of details. We analyzed and process the dataset but could not use the full version because of hardware deficiencies. For generation task, we used <a href="https://arxiv.org/pdf/2010.11929.pdf">Vision Transformer</a> by Dosovitskiy et. al. as an encoder to understand the X-Ray images and the decoder portion of original transformer architecture as s decoder. Our intuition behind using Vision Transformer(ViT) was that ViT divides images into patches that might recognize better localized spatial structure which is necessary for X-Ray images. Our whole system was end-to-end. And we achieved the closer level of performance with low amount of data. <br/>
 <b>Results:</b> <br/>
 <img src="projects/radiology-report-gen/arch.PNG" width=23%>
 <img src="projects/radiology-report-gen/results.PNG" width=70%><br/>
-<b>My Contribution:</b> I am worked on the model architecture designing and training portion. <br/><br/>
+<b>My Contribution:</b> I am worked on designing the model architecture and training them. <br/><br/>
 <a href="projects/radiology-report-gen/Project_Baseline_Report.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
 <a href="projects/radiology-report-gen/baseline_report_presentation.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
-</td></tr>
-</table>
-
-### Medical Expertise Style Transfer System for Layman Patients
-<table>
-<tr><td>
-<b>Timeline:</b> October 2020 - March 2021 <br/>
-<b>Motivation:</b> There is always a big communication gap between experts and laymen in any domain. In the medical domain, this problem is considered high stakes because patients who are not experts need to understand what the doctor prescribes them. Moreover, this problem is not localized, it is worldwide. For our undergraduate dissertation, I and my teammates conducted research on expertise style transfer in the medical domain upon discussion with our supervisor, <a href="https://cse.iutoic-dhaka.edu/profile/kamrul/educations">Dr. Kamrul Hasan</a>.  <br/>
-<b>Problem Statement:</b> Given an expert style text can the machine learn to transfer it into layman style preserving the content? <br/>
-<b>Approach:</b> We started exploring the most recent Medical Expertise Style Transfer dataset, <a href="https://aclanthology.org/2020.acl-main.100.pdf">MSD Dataset</a>, by Cao et. al. We came up with an approach like "Fill in The Blanks". Using an expertise classifier, we were masking expert words. Using a language model finetuned on laymen corpus, we were filling the gaps with the most relevant words. This method availed competitive performance but not the best in all metrics. <br/>
-<b>Results:</b> <br/>
-<img src="projects/medical-tst/results.PNG" width=67%><br/>
-<img src="projects/medical-tst/success.PNG" width=45%>
-<img src="projects/medical-tst/failure.PNG" width=41.5%><br/>
-<b>My Contribution:</b> I mostly worked on the model designing approaches.<br/><br/>
-<a href="projects/medical-tst/medical_tst_report.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
-<a href="https://github.com/msi1427/Medical-Expertise-Style-Transfer-System-for-Layman-Patients"> <div class="button"> <b>GitHub Repo</b> </div> </a>
-<a href="projects/medical-tst/medical_tst_pres.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
 </td></tr>
 </table>
 
