@@ -125,7 +125,8 @@ title: Projects
 <b>Approach:</b> We already had a face detection system up and running. We used the same system to detect the faces and then cropped the detected portions to generate thumbnails. For the latter part, we ran a frame-by-frame recognition and kept a count of the face stats on the way. We also kept track of which face appeared when. The consecutive timelines were merged and used as a range to crop the videos automatically. The timeline was sent back to the remote user. The main challenge of this project was to integrate the machine learning pipeline with the Adobe Premiere Plugin in real-time. We were able to face the challenges, complete the project and deliver the project successfully to the client. <br/>
 <img src="projects/adobe-plugin/arch.png" width=65%><br/>
 <b>Results:</b> The result snippets are not provided here due to client confidentiality. <br/>
-<b>My Contribution:</b> I worked on the local machine part of this project while my other colleague worked on the plugin part.. <br/>
+<b>My Contribution:</b> I worked on the local machine part of this project while my other colleague worked on the plugin part. <br/>
+<a href="https://github.com/pioneerAlpha/Adobe-Premiere-Plugin-for-Family-Face-Recognition"> <div class="button"> <b>GitHub Repo</b> </div> </a>
 </td></tr>
 </table>
 

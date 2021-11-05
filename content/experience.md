@@ -30,7 +30,7 @@ title: Experience
     <div class ="box">
         <a href="https://pioneeralpha.com/"> <b> Pioneer Alpha Ltd.</b> </a>, Dhaka, Bangladesh <br/>
         Lead Machine Learning Engineer <br/>
-        <b>January, 2021 - September, 2021</b> <br/> <br/>
+        <b>January, 2021 - October, 2021</b> <br/> <br/>
     </div>
     <div class ="box">
         <a href="https://omdena.com/"> <b> Omdena Inc.</b> </a>, New York, USA <br/>
