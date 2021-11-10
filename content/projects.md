@@ -67,20 +67,20 @@ title: Projects
 </td></tr>
 </table>
 
-### COVID-19 Public Policy Stance Analysis
+### COVID-19 Public Policy Confomity Analysis
 <table>
 <tr><td>
 <b>Timeline:</b> March 2021 - Present <br/>
 <b>Motivation:</b> <a href="https://www.fordham.edu/info/29708/affiliates_for_research_consortium_on_disability/12021/ruhul_amin">Dr. Ruhul Amin</a> from Fordham University had an opening in his lab, <b>Fordham Human Centered AI Research Lab</b>, for this project. The problem seemed really interesting to me and I reached out to him. After a brief interview, we started working on the problem. As the project progressed, we have two more awesome collaborators, <a href="https://www.cs.cmu.edu/~akhudabu/">Dr. Ashique Khudabukhsh</a> and <a href="https://styx97.github.io/">Rupak Sarkar</a>. I am learning a lot working with them. <br/>
-<b>Problem Statement:</b> Is it possible to analyze the public stance on COVID-19 policies and the implications of it? <br/>
-<i><b>Since this is a work in progress, the details will be here after the completion of the project.</b></i>
-<!-- <b>Approach:</b> <br/>
-<b>Results:</b> <br/>
-<img src="" width=43%><br/>
-<b>My Contribution:</b> <br/>
-<a href=""> <div class="button"> <b>Detailed Report</b> </div> </a>
-<a href=""> <div class="button"> <b>GitHub Repo</b> </div> </a>
-<a href=""> <div class="button"> <b>Walkthrough</b> </div> </a>  -->
+<b>Problem Statement:</b> Is it possible to analyze the public stance on COVID-19 policies and their real-life implications? <br/>
+<b>Approach:</b> Manuscript in Preparation (More Description incoming). For high level overview, please look into project <a href="talks/policy-conformity">walkthrough</a>.<br/>
+<img src="projects/policy-conformity/pipeline.png" width=47%>
+<img src="projects/policy-conformity/policy-cls.PNG" width=45%><br/>
+<b>Results:</b> Manuscript in Preparation (More Visuals incoming)<br/>
+<b>My Contribution:</b> I worked on all portions of this project directly or indirectly.<br/>
+<!-- <a href=""> <div class="button"> <b>Detailed Report</b> </div> </a>
+<a href=""> <div class="button"> <b>GitHub Repo</b> </div> </a> -->
+<a href="talks/policy-conformity"> <div class="button"> <b>Walkthrough</b> </div> </a> 
 </td></tr>
 </table>
 
@@ -107,7 +107,7 @@ title: Projects
 <b>Motivation:</b> I was introduced to this project during my time at Pioneer Alpha Ltd. I always look for opportunities to contribute to low resource and real-time research especially in my native language because these types of projects have a direct impact on society. Luckily I was appointed as the supervisor of this project. I had the opportunity to supervise two of my amazingly talented colleagues, <a href="https://www.researchgate.net/profile/Alif-Ashrafee">Alif Ashrafee</a> and <a href="https://www.researchgate.net/profile/Akib-Khan-5">Akib Mohammed Khan</a>, throughout the project. <br/>
 <b>Problem Statement:</b> Given a video feed of cars and motorcycles having Bangla license plates, can we teach the machine to identify and recognize license plate text? <br/>
 <b>Approach:</b> First of all, we collected necessary data. We compiled two types of datasets. One was images containing Bangla License Plates across Dhaka City and another was of videos from all over Bangladesh containing license plates. Thanks to the amazing Amar iSchool volunteers who helped us in this process. We used the image dataset for training and the video dataset was used for testing. Then, we manually drew bounding boxes of the images to train a license plate detector model. But all the models we were training were not achieving real-time inference speed. So, we used a weak binary classifier model trained on negative and positive samples of license plates as a wakeup mechanism which was used to invoke the bigger model. After this, there were two more stages that finally resulted in successful recognition. Our final pipeline (Cascade + SSDv2 + Vision API) achieved real-time speed with high accuracy. We also built a web app for the interaction which will be used as a service provider for Bangladeshi clients.<br/>
-<b>Results:</b> We presented our work in <a href="https://confbim.com/">BIM 2021</a>. <br/>
+<b>Results:</b> Our work is currently under review. <br/>
 <img src="projects/license-plate/pipeline.PNG" width=50%><br/>
 <b>My Contribution:</b> I was the supervisor of this project.<br/>
 <a href="https://arxiv.org/pdf/2108.08339.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
@@ -170,7 +170,7 @@ title: Projects
 <b>Motivation:</b> The starting of this project was from a client project on Face Recognition during my time in Pioneer Alpha Ltd. The client project got extended to a research project later due to the scope and range this project covers. <br/>
 <b>Problem Statement:</b> Is it possible to build a real-time face recognition system to track the presence of remote employees? <br/>
 <b>Approach:</b> The face recognition module is trained on <a href="http://vis-www.cs.umass.edu/lfw/">Labeled Faces in the Wild (LFW)</a> dataset because most of the cameras of remote employees are of low quality and LFW covers a diversified range of faces in the wild. Whenever new employees joins a company, they are assigned an unique random ID containing 2 letters in the beginning and 4 digits in the end. When employees start their session, the camera captures the video in random time frames to check if the employee is actually there. The record is stored in archive history which even the admin cannot change. This is done to maintain fairness. <br/>
-<b>Results:</b> <br/>
+<b>Results:</b> We presented our work in <a href="https://confbim.com/">BIM 2021</a><br/>
 <img src="projects/face-rec/facerec.PNG" width=60%><br/>
 <b>My Contribution:</b> I worked on the whole implementation process while my other teammates helped me with organization process. <br/><br/>
 <a href="https://arxiv.org/pdf/2107.07576.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>

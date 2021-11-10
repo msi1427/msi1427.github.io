@@ -38,7 +38,7 @@ Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLd
         <a href="https://scholar.google.com/citations?user=zQKHA64AAAAJ">MD Abdullah Al Nasim</a> 
         <br/>
         <!-- Presented in <b><a href="conference url">Conference Name</a></b>  -->
-        Under Review
+        Accepted in <b><a href="https://wacv2022.thecvf.com/node/75">WACV RWS 2022</a></b> 
         <br/><br/>
         <a href="documents/citations/license_plate.txt"> <div class="button"> <b>Cite</b> </div> </a>
         <!-- <a href="DOI"> <div class="button"> <b>Paper</b> </div> </a>
