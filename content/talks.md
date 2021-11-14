@@ -5,7 +5,7 @@ title: Talks
 ## 2021
 <table>
 <tr><td>
-<b>10-Nov</b></a> &nbsp; At <b>Fordham Human Centered AI Research Lab</b> </a> on COVID-19 Public Policy Conformity Research Progress.
+<b>10-Nov</b></a> &nbsp; At <b>Fordham Human Centered AI Research Lab</b> </a> on COVID-19 Public Policy Conformity Research.
 <a href="/talks/policy-conformity.pdf"> <b>[PDF]</b> </a>
 </td></tr>
 <tr><td>
