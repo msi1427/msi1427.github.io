@@ -38,7 +38,7 @@ Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLd
         <a href="https://scholar.google.com/citations?user=zQKHA64AAAAJ">MD Abdullah Al Nasim</a> 
         <br/>
         <!-- Presented in <b><a href="conference url">Conference Name</a></b>  -->
-        Accepted in <b><a href="https://wacv2022.thecvf.com/node/75">WACV RWS 2022</a></b> 
+        Accepted in <b><a href="https://wacv2022.thecvf.com/node/75">IEEE/CVF WACV - RWS 2022</a></b> 
         <br/><br/>
         <a href="documents/citations/license_plate.txt"> <div class="button"> <b>Cite</b> </div> </a>
         <!-- <a href="DOI"> <div class="button"> <b>Paper</b> </div> </a>
@@ -90,7 +90,7 @@ Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLd
         <a href="https://www.researchgate.net/profile/Tanjila-Alam-Sathi">Tanjila Alam Sathi</a>, 
         <a href="https://www.researchgate.net/profile/Lutfun-Lota-2">Lutfun Nahar Lota</a> 
         <br/>
-        Presented in <b><a href="https://ubicomp.org/ubicomp2020">UbiComp/ISWC HASCA 2020</a></b> <br/><br/>
+        Presented in <b><a href="https://ubicomp.org/ubicomp2020">ACM UbiComp/ISWC - HASCA 2020</a></b> <br/><br/>
         <a href="documents/citations/nurse_care.txt"> <div class="button"> <b>Cite</b> </div> </a>
         <a href="https://dl.acm.org/doi/abs/10.1145/3410530.3414339"> <div class="button"> <b>DOI</b> </div> </a>
         <a href="documents/presentations/NurseCare.pdf"> <div class="button"> <b>Presentation</b> </div> </a>
