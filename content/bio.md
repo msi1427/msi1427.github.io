@@ -8,8 +8,7 @@ My current research interests revolve around a broad range of NLP and ML topics.
 Other than AI, I also like to explore History, Theology, Geopolitics, Psychology, Social Sciences and various STEM, medicine and healthcare-related topics in my leisure. As I consider myself a lifelong student of scientific research and development, I put myself on a ceaseless journey to unravel the mysteries of this convoluted universe so that I can bring positive changes to the world. 
 
 ### Research Interests:
-- NLU and NLG Benchmarking and Evaluation
-- Efficient NLG
+- NLU and NLG efficient Benchmarking and Evaluation
 - Robustness in NLP
 - Annotating and cleaning datasets with minimal cost
 - Fact verification using historical data
