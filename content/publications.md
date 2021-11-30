@@ -43,6 +43,7 @@ Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLd
         <a href="documents/citations/license_plate.txt"> <div class="button"> <b>Cite</b> </div> </a>
         <!-- <a href="DOI"> <div class="button"> <b>Paper</b> </div> </a> -->
         <a href="documents/presentations/BanglaLicensePlate.pdf"> <div class="button"> <b>Presentation</b> </div> </a>
+        <a href="https://drive.google.com/file/d/1LKveIwkOCHz-wkL41SiKnrTWzXh_IjZL/view?usp=sharing"> <b>Poster</b> </div> </a>
         <a href="https://arxiv.org/pdf/2108.08339.pdf"> <div class="button"> <b>PDF</b> </div> </a>
     </td>
 </tr>
