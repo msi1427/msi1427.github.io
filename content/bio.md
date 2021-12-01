@@ -13,7 +13,8 @@ Other than AI, I also like to explore History, Theology, Geopolitics, Psychology
 - Annotating and cleaning datasets with minimal cost
 - Fact verification using historical data
 - Explainable, Interpretable and Reproducable AI
-- NLP for Good (Social, Clinical, Low-resource)
+- Low-resource and Multilingual NLP
+- AI for Good (Social, Clinical & Other disciplines)
 
 ### Education:
 <span class="icon"> <img src="https://img.icons8.com/office/30/000000/graduation-cap.png"/> </span> **B.Sc in [Computer Science and Engineering](https://cse.iutoic-dhaka.edu/), 2021** <br/> 
