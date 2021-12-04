@@ -2,6 +2,12 @@
 title: Hobbies
 ---
 
+### Reading
+- [The Demon Haunted World : Science as a Candle in the Dark](https://www.amazon.com/gp/product/0345409469/) - Carl Sagan
+- [The Language of Food: A Linguist Reads the Menu](https://web.stanford.edu/~jurafsky/thelanguageoffood.html) - Dan Jurafsky 
+
+I picked up my interest in reading books at the beginning of 2021. I like reading non-fiction books. 
+
 ### Traveling and Photography
 I picked up my interest in traveling and photography (nature and/or abstract) mostly during my undergrad. As a leading competitive programmer in IUT, I was fortunate enough to have the chance to travel across Bangladesh to participate in different competitions. Other than that, I am also a big fan of unplanned random tours to get away from the toxicity of city life. Though I haven't had the chance yet, I have plans to travel around the world in different countries and know about the difference in demographics.
 
