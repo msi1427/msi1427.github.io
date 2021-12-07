@@ -1,6 +1,6 @@
 ---
 title: Mohammad Sabik Irbaz
-description: Former Lead Machine Learning Engineer @ Omdena Inc. & Pioneer Alpha Ltd.
+description: Data Scientist (NLP) @ Leadbook Pte. Ltd.
 background: "/images/msi.jpg"
 logo: "/images/ai.png"
 

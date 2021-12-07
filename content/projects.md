@@ -73,14 +73,14 @@ title: Projects
 <b>Timeline:</b> March 2021 - Present <br/>
 <b>Motivation:</b> <a href="https://www.fordham.edu/info/29708/affiliates_for_research_consortium_on_disability/12021/ruhul_amin">Dr. Ruhul Amin</a> from Fordham University had an opening in his lab, <b>Fordham Human Centered AI Research Lab</b>, for this project. The problem seemed really interesting to me and I reached out to him. After a brief interview, we started working on the problem. As the project progressed, we have two more awesome collaborators, <a href="https://www.cs.cmu.edu/~akhudabu/">Dr. Ashique Khudabukhsh</a> and <a href="https://styx97.github.io/">Rupak Sarkar</a>. I am learning a lot working with them. <br/>
 <b>Problem Statement:</b> Is it possible to analyze the public stance on COVID-19 policies and their real-life implications? <br/>
-<b>Approach:</b> Manuscript in Preparation (More Description incoming). For high level overview, please look into project <a href="talks/policy-conformity">walkthrough</a>.<br/>
+<b>Approach:</b> Manuscript in Preparation (More Description incoming). For high level overview, please look into project <a href="talks/policy-conformity.pdf">walkthrough</a>.<br/>
 <img src="projects/policy-conformity/pipeline.png" width=47%>
 <img src="projects/policy-conformity/policy-cls.PNG" width=45%><br/>
 <b>Results:</b> Manuscript in Preparation (More Visuals incoming)<br/>
 <b>My Contribution:</b> I worked on all portions of this project directly or indirectly.<br/>
 <!-- <a href=""> <div class="button"> <b>Detailed Report</b> </div> </a>
 <a href=""> <div class="button"> <b>GitHub Repo</b> </div> </a> -->
-<a href="talks/policy-conformity"> <div class="button"> <b>Walkthrough</b> </div> </a> 
+<a href="talks/policy-conformity.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
 </td></tr>
 </table>
 
