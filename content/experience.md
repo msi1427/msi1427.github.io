@@ -7,7 +7,7 @@ title: Experience
     <h3> Industrial Experience </h3>
     <div class ="box">
         <a href="https://www.leadbook.com/"> <b> Leadbook Pte. Ltd.</b> </a>, Singapore <br/>
-        Data Scientist (NLP) <br/>
+        Data Scientist <br/>
         <b>December, 2021 - Present</b> <br/> <br/>
     </div>
     <div class ="box">
