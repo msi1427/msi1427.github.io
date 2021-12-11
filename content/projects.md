@@ -95,8 +95,8 @@ title: Projects
 <img src="projects/rasa-nlu/example.PNG" width=50%><br/>
 <b>My Contribution:</b> I was the supervisor of this project.<br/>
 <a href="https://arxiv.org/pdf/2107.05541.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
-<!-- <a href=""> <div class="button"> <b>GitHub Repo</b> </div> </a>
-<a href=""> <div class="button"> <b>Walkthrough</b> </div> </a>  -->
+<a href="https://github.com/msi1427/Bangla-Chatbot"> <div class="button"> <b>GitHub Repo</b> </div> </a>
+<a href="documents/presentations/BanglaChatbot.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
 </td></tr>
 </table>
 
@@ -111,8 +111,8 @@ title: Projects
 <img src="projects/license-plate/pipeline.PNG" width=50%><br/>
 <b>My Contribution:</b> I was the supervisor of this project.<br/>
 <a href="https://arxiv.org/pdf/2108.08339.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
-<!-- <a href=""> <div class="button"> <b>GitHub Repo</b> </div> </a>
-<a href=""> <div class="button"> <b>Walkthrough</b> </div> </a>  -->
+<a href="https://github.com/msi1427/Bangla-ALPR"> <div class="button"> <b>GitHub Repo</b> </div> </a>
+<a href="documents/presentations/BanglaLicensePlate.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
 </td></tr>
 </table>
 
@@ -124,7 +124,7 @@ title: Projects
 <b>Problem Statement:</b> Given some family photos and videos of their family events like weddings, we need to return the portion of the videos where the family members appear and also the appearance stats. <br/>
 <b>Approach:</b> We already had a face detection system up and running. We used the same system to detect the faces and then cropped the detected portions to generate thumbnails. For the latter part, we ran a frame-by-frame recognition and kept a count of the face stats on the way. We also kept track of which face appeared when. The consecutive timelines were merged and used as a range to crop the videos automatically. The timeline was sent back to the remote user. The main challenge of this project was to integrate the machine learning pipeline with the Adobe Premiere Plugin in real-time. We were able to face the challenges, complete the project and deliver the project successfully to the client. <br/>
 <img src="projects/adobe-plugin/arch.png" width=65%><br/>
-<b>Results:</b> The result snippets are not provided here due to client confidentiality. <br/>
+<!-- <b>Results:</b> The result snippets are not provided here due to client confidentiality. <br/> -->
 <b>My Contribution:</b> I worked on the local machine part of this project while my other colleague worked on the plugin part. <br/>
 <a href="https://github.com/pioneerAlpha/Adobe-Premiere-Plugin-for-Family-Face-Recognition"> <div class="button"> <b>GitHub Repo</b> </div> </a>
 </td></tr>

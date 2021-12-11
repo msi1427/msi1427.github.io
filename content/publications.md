@@ -21,6 +21,7 @@ Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLd
         <a href="DOI"> <div class="button"> <b>DOI</b> </div> </a>
         <a href="documents/presentations/"> <div class="button"> <b>Presentation</b> </div> </a>
         <a href="Preprint Link"> <div class="button"> <b>PDF</b> </div> </a>
+        <a href="Repo Link"> <div class="button"> <b>Code</b> </div> </a>
     </td>
 </tr> 
 -->
@@ -45,6 +46,7 @@ Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLd
         <a href="documents/presentations/BanglaLicensePlate.pdf"> <div class="button"> <b>Presentation</b> </div> </a>
         <a href="https://drive.google.com/file/d/1LKveIwkOCHz-wkL41SiKnrTWzXh_IjZL/view?usp=sharing"> <div class="button"> <b>Poster</b> </div> </a>
         <a href="https://arxiv.org/pdf/2108.08339.pdf"> <div class="button"> <b>PDF</b> </div> </a>
+        <a href="https://github.com/msi1427/Bangla-ALPR"> <div class="button"> <b>Code</b> </div> </a>
     </td>
 </tr>
 <tr>
@@ -61,6 +63,7 @@ Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLd
         <!-- <a href="DOI"> <div class="button"> <b>Paper</b> </div> </a> -->
         <a href="documents/presentations/BanglaChatbot.pdf"> <div class="button"> <b>Presentation</b> </div> </a>
         <a href="https://arxiv.org/pdf/2107.05541.pdf"> <div class="button"> <b>PDF</b> </div> </a>
+        <a href="https://github.com/msi1427/Bangla-Chatbot"> <div class="button"> <b>Code</b> </div> </a>
     </td>
 </tr> 
 <tr>
