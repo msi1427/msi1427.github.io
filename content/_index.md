@@ -10,8 +10,8 @@ google_scholar_url: "https://scholar.google.com/citations?user=PLdULx4AAAAJ"
 github_icon: "https://img.icons8.com/color/64/000000/github--v1.png"
 github_url: "https://github.com/msi1427"
  
-twitter_icon: "https://img.icons8.com/color-glass/64/000000/twitter-circled.png"
-twitter_url: "https://twitter.com/msi__bertman"
+sscholar_icon: "https://img.icons8.com/color/64/000000/google-scholar--v1.png"
+sscholar_url: "https://www.semanticscholar.org/author/Mohammad-Sabik-Irbaz/1959252810"
 
 linkedin_icon: "https://img.icons8.com/fluency/64/000000/linkedin-circled.png"
 linkedin_url: "https://www.linkedin.com/in/sabik-irbaz/"
