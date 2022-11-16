@@ -1,0 +1,6 @@
+@article{irbaz2022predicting,
+  title={Predicting User-specific Future Activities using LSTM-based Multi-label Classification},
+  author={Irbaz, Mohammad Sabik and Sakib, Fardin Ahsan and Lota, Lutfun Nahar},
+  journal={arXiv preprint arXiv:2211.03100},
+  year={2022}
+}

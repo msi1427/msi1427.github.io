@@ -4,6 +4,14 @@ title: News
 
 *Starting from September 2021* <br/>
 
+## 2022
+<table>
+<tr><td> <b>29-Oct</b> &nbsp; Presented our paper on <a href="https://arxiv.org/abs/2211.03100"> <b>Nurse Care Activity Prediction</b></a> in <a href="https://abc-research.github.io/"> <b> ABC 2022</b></a>. <br/></td></tr>
+<tr><td> <b>01-Sep</b> &nbsp; Started working as a Data Science Instructor @ <a href="https://mastercourse.site/"> <b>MasterCourse</b> </a>. <br/></td></tr>
+<tr><td> <b>25-Aug</b> &nbsp; Our paper on <a href="https://arxiv.org/abs/2211.03100"> <b>Nurse Care Activity Prediction</b></a> got accepted in <a href="https://abc-research.github.io/"> <b> ABC 2022</b></a>.<br/></td></tr>
+</table>
+<br/>
+
 ## 2021
 <table>
 <tr><td> <b>07-Dec</b> &nbsp; Started working as a Data Scientist @ <a href="https://www.leadbook.com/"> <b> Leadbook Pte. Ltd.</b></a> <br/></td></tr>

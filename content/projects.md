@@ -2,7 +2,7 @@
 title: Projects
 ---
 
-*<b>Please read this before going through the projects.</b> <br/> I could not link the source code to some of the projects below due to client confidentiality or lab confidentiality. Everything related to a particular project is not described to the full extent here. I only discussed the motivation (why and how I or my team started working on this problem), problem statement (what the problem is/was in short), approach (not the formal version, just how I or my team approached the problem), results (final outcome) and my contribution (what exactly I did). If you like any project below feel free to explore the GitHub repository and, if the link to the repository is not provided here, feel free to contact me for more details.* <br/>
+*<b>Please read this before going through the projects.</b> <br/> I could not link the source code to some of the projects below due to client confidentiality or lab confidentiality. Everything related to a particular project is not described to the full extent here. I only discussed the motivation (why and how I or my team started working on this problem), problem statement (what the problem is/was in short), approach (not the formal version, just how I or my team approached the problem), results (final outcome) and my contribution (what exactly I did). All the projects I completed are not exhaustively mentioned and described here. If you like any project below feel free to explore the GitHub repository and, if the link to the repository is not provided here, feel free to contact me for more details.* <br/>
 
 <!-- ### Title
 <table>
@@ -21,17 +21,12 @@ title: Projects
 </table> -->
 
 <!-- 
-### Intended Sarcasm Detection in Arabic and English
 
 ### Logical Reasoning Question Answering using Standardized Test Questions
-
-### Data-centric approach for Explainabile Text Classification 
 
 ### Mitigating Social Bias in NLP
 
 ### Data-Centric Approach for Medical Expertise Style Transfer
-
-### Negative Data Augmentation for NLP
 
 ### Radiology Report Generation
 

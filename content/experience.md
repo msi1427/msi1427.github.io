@@ -52,6 +52,12 @@ title: Experience
   <div class="doc-column">
     <h3> Teaching Experience </h3>
     <div class ="box">
+        <a href="https://mastercourse.site/"> <b>MasterCourse</b> </a><br/>
+        Data Science Instructor <br/>
+        <a href="https://mastercourse.site/courses/dokkho-data-science-program-batch-1/"> <b>Dokkho Data Science Career Program</b> </a><br/>
+        <b>September, 2022 - Present</b> <br/>
+    </div>
+    <div class ="box">
         <a href="https://amarischool.com/"> <b> Amar iSchool</b> </a><br/>
         Head Course Instructor <br/>
         <a href="https://github.com/pioneerAlpha/ML_AiS_B1"> <b> Applied Data Science and Machine Learning</b> </a><br/>

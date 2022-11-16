@@ -2,6 +2,14 @@
 title: Achievements
 ---
 
+## 2022
+<table>
+<tr><td>
+<b>Champion</b>, among ~30 teams, <a href="https://abc-research.github.io/challenge2022/learn/"> 4th Nurse Care Activity Recognition Challenge 2022</a>. <br/>
+*Won 100,000 JPY*
+</td></tr>
+</table>
+
 ## 2021
 <table>
 <tr><td>
@@ -16,7 +24,7 @@ title: Achievements
 ## 2020
 <table>
 <tr><td>
-<b>Champion</b>, among ~20 teams, <a href="https://abc-research.github.io/nurse2020/results/">Nurse Care Activity Recognition Challenge 2020</a>. <br/>
+<b>Champion</b>, among ~20 teams, <a href="https://abc-research.github.io/nurse2020/results/"> 2nd Nurse Care Activity Recognition Challenge 2020</a>. <br/>
 *Won a trip to Japan. (Pending due to COVID-19)*
 </td></tr>
 <tr><td>

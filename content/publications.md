@@ -26,6 +26,26 @@ Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLd
 </tr> 
 -->
 
+## 2022
+<table>
+<tr>
+    <td>
+        <img src="/images/research/4th_NurseCare.jpg" width=80%> <br/>
+        <b>Predicting User-specific Future Activities using LSTM-based Multi-label Classification</b> <br/>
+        <b><a href="https://msi1427.github.io/">Mohammad Sabik Irbaz</a></b>, 
+        <a href="https://bd.linkedin.com/in/fardinahsan">Fardin Ahsan Sakib</a>, 
+        <a href="https://www.researchgate.net/profile/Lutfun-Lota-2">Lutfun Nahar Lota</a>
+        <br/>
+        Presented in <b><a href="https://abc-research.github.io/">ABC 2022</a></b> 
+        <br/><br/>
+        <a href="documents/citations/4th_nursecare.txt"> <div class="button"> <b>Cite</b> </div> </a>
+        <!-- <a href="DOI"> <div class="button"> <b>DOI</b> </div> </a> -->
+        <a href="documents/presentations/4th_NurseCare.pdf"> <div class="button"> <b>Presentation</b> </div> </a>
+        <a href="https://arxiv.org/pdf/2211.03100.pdf"> <div class="button"> <b>PDF</b> </div> </a>
+        <!-- <a href="Repo Link"> <div class="button"> <b>Code</b> </div> </a> -->
+    </td>
+</tr> 
+</table>
 
 ## 2021
 <table>
