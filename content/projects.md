@@ -40,7 +40,7 @@ title: Projects
 <b>Motivation:</b> I got selected for Omdena Equilo Project after an interview. Back then, most of my NLP knowledge was theoretical or on a small or mid scale project. I wanted to learn how things work on a large scale projects. Besides, the problem was interesting. More about the project can be found in my <a href="#omdena"><b>Omdena Blog</b></a>. <br/>
 <b>Results:</b> In summary, we built a pipeline to systematically understand the gender inequality in organizations and recommend actions to prevent them. <br/>
 <img src="projects/omdena-equilo/pipeline.png" width=60%><br/>
-<a href="projects/omdena-equilo/unofficial_omdena_article.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
+<a href="https://github.com/msi1427/msi1427.github.io/blob/main/themes/dimension/static/projects/omdena-equilo/unofficial_omdena_article.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
 </td></tr>
 </table>
 
@@ -56,9 +56,9 @@ title: Projects
 <img src="projects/medical-tst/success.PNG" width=45%>
 <img src="projects/medical-tst/failure.PNG" width=41.5%><br/>
 <b>My Contribution:</b> I mostly worked on the model designing approaches.<br/><br/>
-<a href="projects/medical-tst/medical_tst_report.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
+<a href="https://github.com/msi1427/msi1427.github.io/blob/main/themes/dimension/static/projects/medical-tst/medical_tst_report.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
 <a href="https://github.com/msi1427/Medical-Expertise-Style-Transfer-System-for-Layman-Patients"> <div class="button"> <b>GitHub Repo</b> </div> </a>
-<a href="projects/medical-tst/medical_tst_pres.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
+<a href="https://github.com/msi1427/msi1427.github.io/blob/main/themes/dimension/static/projects/medical-tst/medical_tst_pres.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
 </td></tr>
 </table>
 
@@ -68,14 +68,14 @@ title: Projects
 <b>Timeline:</b> March 2021 - Present <br/>
 <b>Motivation:</b> <a href="https://www.fordham.edu/info/29708/affiliates_for_research_consortium_on_disability/12021/ruhul_amin">Dr. Ruhul Amin</a> from Fordham University had an opening in his lab, <b>Fordham Human Centered AI Research Lab</b>, for this project. The problem seemed really interesting to me and I reached out to him. After a brief interview, we started working on the problem. As the project progressed, we have two more awesome collaborators, <a href="https://www.cs.cmu.edu/~akhudabu/">Dr. Ashique Khudabukhsh</a> and <a href="https://styx97.github.io/">Rupak Sarkar</a>. I am learning a lot working with them. <br/>
 <b>Problem Statement:</b> Is it possible to analyze the public stance on COVID-19 policies and their real-life implications? <br/>
-<b>Approach:</b> Manuscript in Preparation (More Description incoming). For high level overview, please look into project <a href="talks/policy-conformity.pdf">walkthrough</a>.<br/>
+<b>Approach:</b> Manuscript in Preparation (More Description incoming). For high level overview, please look into project <a href="https://github.com/msi1427/msi1427.github.io/blob/main/themes/dimension/static/talks/policy-conformity.pdf">walkthrough</a>.<br/>
 <img src="projects/policy-conformity/pipeline.png" width=47%>
 <img src="projects/policy-conformity/policy-cls.PNG" width=45%><br/>
 <b>Results:</b> Manuscript in Preparation (More Visuals incoming)<br/>
 <b>My Contribution:</b> I worked on all portions of this project directly or indirectly.<br/>
 <!-- <a href=""> <div class="button"> <b>Detailed Report</b> </div> </a>
 <a href=""> <div class="button"> <b>GitHub Repo</b> </div> </a> -->
-<a href="talks/policy-conformity.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
+<a href="https://github.com/msi1427/msi1427.github.io/blob/main/themes/dimension/static/talks/policy-conformity.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
 </td></tr>
 </table>
 
@@ -91,7 +91,7 @@ title: Projects
 <b>My Contribution:</b> I was the supervisor of this project.<br/>
 <a href="https://arxiv.org/pdf/2107.05541.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
 <a href="https://github.com/msi1427/Bangla-Chatbot"> <div class="button"> <b>GitHub Repo</b> </div> </a>
-<a href="documents/presentations/BanglaChatbot.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
+<a href="https://github.com/msi1427/msi1427.github.io/blob/main/themes/dimension/static/documents/presentations/BanglaChatbot.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
 </td></tr>
 </table>
 
@@ -107,7 +107,7 @@ title: Projects
 <b>My Contribution:</b> I was the supervisor of this project.<br/>
 <a href="https://arxiv.org/pdf/2108.08339.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
 <a href="https://github.com/msi1427/Bangla-ALPR"> <div class="button"> <b>GitHub Repo</b> </div> </a>
-<a href="documents/presentations/BanglaLicensePlate.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
+<a href="https://github.com/msi1427/msi1427.github.io/blob/main/themes/dimension/static/documents/presentations/BanglaLicensePlate.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
 </td></tr>
 </table>
 
@@ -137,7 +137,7 @@ title: Projects
 <b>My Contribution:</b> This is my solo learning project. <br/>
 <a href="https://github.com/msi1427/Original-Transformer-for-Bengali-Translation/blob/main/README.md"> <div class="button"> <b>Detailed Report</b> </div> </a>
 <a href="https://github.com/msi1427/Original-Transformer-for-Bengali-Translation"> <div class="button"> <b>GitHub Repo</b> </div> </a>
-<a href="http://localhost:1313/talks/transformer_sunlp21.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
+<a href="https://github.com/msi1427/msi1427.github.io/blob/main/themes/dimension/static/talks/transformer_sunlp21.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
 </td></tr>
 </table>
 
@@ -180,13 +180,13 @@ title: Projects
 <b>Timeline:</b> November 2021 - March 2021 <br/>
 <b>Motivation:</b> From the beginning of 2020, we are in a pandemic situation. The condition is much worse in 3rd world countries like Bangladesh. I and my friend, <a href="https://www.researchgate.net/profile/Abir-Azad">Abir Azad</a>, were trying to contribute somehow to the case. We found out that most of the diagnosis reports come out late because of human latency. There are much more patients than doctors, nurses, and health workers. We were looking to contribute to automatic diagnosis report generation research and found <a href="https://physionet.org/content/mimic-cxr/2.0.0/">MIMIC-CXR</a> dataset by Johnson et. al. dealing with radiology report generation. We presented this issue to our Pattern Recognition project supervisor, <a href = "https://cse.iutoic-dhaka.edu/profile/sabbir/educations">Sabbir Ahmed</a>. Under his supervision, we started working on this problem. <br/>
 <b>Problem Statement:</b> Given an X-Ray image can the machine learn to understand and generate a medical report from it? <br/>
-<b>Approach:</b> To get access to the database, we needed to pass <a href="images/certificates/citi_certificate.pdf"><b>CITI certification</b></a> test so that someone using the dataset understand the implications and ethics of using it. After that, we were given access by the database moderators. The dataset was challenging and required a huge understanding of details. We analyzed and process the dataset but could not use the full version because of hardware deficiencies. For generation task, we used <a href="https://arxiv.org/pdf/2010.11929.pdf">Vision Transformer</a> by Dosovitskiy et. al. as an encoder to understand the X-Ray images and the decoder portion of original transformer architecture as s decoder. Our intuition behind using Vision Transformer(ViT) was that ViT divides images into patches that might recognize better localized spatial structure which is necessary for X-Ray images. Our whole system was end-to-end. And we achieved the closer level of performance with low amount of data. <br/>
+<b>Approach:</b> To get access to the database, we needed to pass <a href="https://github.com/msi1427/msi1427.github.io/blob/main/themes/dimension/static/images/certificates/citi_certificate.pdf"><b>CITI certification</b></a> test so that someone using the dataset understand the implications and ethics of using it. After that, we were given access by the database moderators. The dataset was challenging and required a huge understanding of details. We analyzed and process the dataset but could not use the full version because of hardware deficiencies. For generation task, we used <a href="https://arxiv.org/pdf/2010.11929.pdf">Vision Transformer</a> by Dosovitskiy et. al. as an encoder to understand the X-Ray images and the decoder portion of original transformer architecture as s decoder. Our intuition behind using Vision Transformer(ViT) was that ViT divides images into patches that might recognize better localized spatial structure which is necessary for X-Ray images. Our whole system was end-to-end. And we achieved the closer level of performance with low amount of data. <br/>
 <b>Results:</b> <br/>
 <img src="projects/radiology-report-gen/arch.PNG" width=23%>
 <img src="projects/radiology-report-gen/results.PNG" width=70%><br/>
 <b>My Contribution:</b> I am worked on designing the model architecture and training them. <br/><br/>
-<a href="projects/radiology-report-gen/Project_Baseline_Report.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
-<a href="projects/radiology-report-gen/baseline_report_presentation.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
+<a href="https://github.com/msi1427/msi1427.github.io/blob/main/themes/dimension/static/projects/radiology-report-gen/Project_Baseline_Report.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
+<a href="https://github.com/msi1427/msi1427.github.io/blob/main/themes/dimension/static/projects/radiology-report-gen/baseline_report_presentation.pdf"> <div class="button"> <b>Walkthrough</b> </div> </a> 
 </td></tr>
 </table>
 
@@ -203,7 +203,7 @@ From here, we can come to two conclusion (1) the genres can be inferred from plo
 <img src="projects/genre-classifier/Data Distribution.PNG" width=37%>
 <img src="projects/genre-classifier/Results.png" width=50%><br/>
 <b>My Contribution:</b> I worked on all parts of the whole project. As it was a team-work, my main focus was on designing and training the machine learning models while my teammates focused on other parts.  <br/> <br/>
-<a href="projects/genre-classifier/Project Report.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
+<a href="https://github.com/msi1427/msi1427.github.io/blob/main/themes/dimension/static/projects/genre-classifier/Project%20Report.pdf"> <div class="button"> <b>Detailed Report</b> </div> </a>
 <a href="https://github.com/msi1427/Multimodal-Multi-label-Genre-Classifier"> <div class="button"> <b>GitHub Repo</b> </div> </a>
 </td></tr>
 </table>
@@ -235,7 +235,7 @@ From here, we can come to two conclusion (1) the genres can be inferred from plo
 <b>Results:</b> <a href="https://www.youtube.com/watch?v=n4UVbqCXJlM">Video Link</a><br/>
 <img src="/projects/gesture-rec-myo/Stage1.PNG" width=43%><img src="/projects/gesture-rec-myo/Stage2.PNG" width=50%> <br/>
 <b>My Contribution:</b> Honestly, my contribution in this project compared to my best friend and teammate, <a href="https://www.researchgate.net/profile/Abir-Azad">Abir Azad</a>, is very little. But I am mentioning this project here because this was my first encounter with research and machine learning which turned out to be my main career focus later. I got to learn many things from this project. Moreover, this project brought my focus back to academia as I could see there are many interesting and challenging real-life problems to be solved.<br/>
-*Detailed report can be found <b><a href="/projects/gesture-rec-myo/Project Report.pdf">here</a></b>.* (This was my first academic project report. So please bear with our amateur inconsistencies and errors.) <br/>
+*Detailed report can be found <b><a href="https://github.com/msi1427/msi1427.github.io/blob/main/themes/dimension/static/projects/gesture-rec-myo/Project%20Report.pdf">here</a></b>.* (This was my first academic project report. So please bear with our amateur inconsistencies and errors.) <br/>
 </td></tr>
 </table>
 <br/>

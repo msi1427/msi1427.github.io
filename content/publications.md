@@ -40,7 +40,7 @@ Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLd
         <br/><br/>
         <a href="documents/citations/4th_nursecare.txt"> <div class="button"> <b>Cite</b> </div> </a>
         <!-- <a href="DOI"> <div class="button"> <b>DOI</b> </div> </a> -->
-        <a href="documents/presentations/4th_NurseCare.pdf"> <div class="button"> <b>Presentation</b> </div> </a>
+        <a href="https://github.com/msi1427/msi1427.github.io/blob/main/themes/dimension/static/documents/presentations/4th_NurseCare.pdf"> <div class="button"> <b>Presentation</b> </div> </a>
         <a href="https://arxiv.org/pdf/2211.03100.pdf"> <div class="button"> <b>PDF</b> </div> </a>
         <!-- <a href="Repo Link"> <div class="button"> <b>Code</b> </div> </a> -->
     </td>
@@ -63,7 +63,7 @@ Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLd
         <br/><br/>
         <a href="documents/citations/license_plate.txt"> <div class="button"> <b>Cite</b> </div> </a>
         <!-- <a href="DOI"> <div class="button"> <b>Paper</b> </div> </a> -->
-        <a href="documents/presentations/BanglaLicensePlate.pdf"> <div class="button"> <b>Presentation</b> </div> </a>
+        <a href="https://github.com/msi1427/msi1427.github.io/blob/main/themes/dimension/static/documents/presentations/BanglaLicensePlate.pdf"> <div class="button"> <b>Presentation</b> </div> </a>
         <a href="https://drive.google.com/file/d/1LKveIwkOCHz-wkL41SiKnrTWzXh_IjZL/view?usp=sharing"> <div class="button"> <b>Poster</b> </div> </a>
         <a href="https://arxiv.org/pdf/2108.08339.pdf"> <div class="button"> <b>PDF</b> </div> </a>
         <a href="https://github.com/msi1427/Bangla-ALPR"> <div class="button"> <b>Code</b> </div> </a>
@@ -81,7 +81,7 @@ Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLd
         Accepted in <b><a href="https://www.icmla-conference.org/icmla21/index.html">IEEE ICMLA 2021</a></b> <br/><br/>
         <a href="documents/citations/bangla_chatbot.txt"> <div class="button"> <b>Cite</b> </div> </a>
         <!-- <a href="DOI"> <div class="button"> <b>Paper</b> </div> </a> -->
-        <a href="documents/presentations/BanglaChatbot.pdf"> <div class="button"> <b>Presentation</b> </div> </a>
+        <a href="https://github.com/msi1427/msi1427.github.io/blob/main/themes/dimension/static/documents/presentations/BanglaChatbot.pdf"> <div class="button"> <b>Presentation</b> </div> </a>
         <a href="https://arxiv.org/pdf/2107.05541.pdf"> <div class="button"> <b>PDF</b> </div> </a>
         <a href="https://github.com/msi1427/Bangla-Chatbot"> <div class="button"> <b>Code</b> </div> </a>
     </td>
@@ -117,7 +117,7 @@ Updated list on **[Google Scholar](https://scholar.google.com/citations?user=PLd
         Presented in <b><a href="https://ubicomp.org/ubicomp2020">ACM UbiComp/ISWC - HASCA 2020</a></b> <br/><br/>
         <a href="documents/citations/nurse_care.txt"> <div class="button"> <b>Cite</b> </div> </a>
         <a href="https://dl.acm.org/doi/abs/10.1145/3410530.3414339"> <div class="button"> <b>DOI</b> </div> </a>
-        <a href="documents/presentations/NurseCare.pdf"> <div class="button"> <b>Presentation</b> </div> </a>
+        <a href="https://github.com/msi1427/msi1427.github.io/blob/main/themes/dimension/static/documents/presentations/NurseCare.pdf"> <div class="button"> <b>Presentation</b> </div> </a>
         <a href="https://www.researchgate.net/publication/344271908_Nurse_Care_Activity_Recognition_Based_on_Machine_Learning_Techniques_Using_Accelerometer_Data"> <div class="button"> <b>PDF</b> </div> </a>
     </td>
 </tr>
