@@ -61,7 +61,7 @@ title: Experience
         <a href="https://amarischool.com/"> <b> Amar iSchool</b> </a><br/>
         Head Course Instructor <br/>
         <a href="https://github.com/pioneerAlpha/ML_AiS_B1"> <b> Applied Data Science and Machine Learning</b> </a><br/>
-        <b>March, 2021 - Present</b> <br/>
+        <b>March, 2021 - December, 2021</b> <br/>
     </div>
   </div>
 </div>
