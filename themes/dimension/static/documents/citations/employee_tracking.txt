@@ -1,8 +1,0 @@
-@inproceedings{irbaz2022real,
-  title={Real-Time Face Recognition System for Remote Employee Tracking},
-  author={Irbaz, Mohammad Sabik and Nasim, Al and Abdullah, MD and Ferdous, Refat E},
-  booktitle={Proceedings of the International Conference on Big Data, IoT, and Machine Learning},
-  pages={153--163},
-  year={2022},
-  organization={Springer}
-}

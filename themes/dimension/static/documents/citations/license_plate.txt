@@ -1,6 +1,0 @@
-@article{ashrafee2021end,
-  title={End-to-End License Plate Recognition Pipeline for Real-time Low Resource Video Based Applications},
-  author={Ashrafee, Alif and Khan, Akib Mohammed and Irbaz, Mohammad Sabik and Nasim, MD},
-  journal={arXiv preprint arXiv:2108.08339},
-  year={2021}
-}
