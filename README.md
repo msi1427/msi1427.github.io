@@ -22,8 +22,8 @@ Open `index.html` directly to review the new homepage. For archive navigation, s
 
 - `index.html`: all visible portfolio content, publication links, and metadata.
 - `assets/style.css`: responsive layout, typography, colors, print and reduced-motion styles.
-- `assets/app.js`: accessible mobile menu and compatibility with older section links.
-- `assets/sabik.webp`: optimized version of your original photograph.
+- `assets/app.js`: accessible mobile menu, saved dark/light theme preference, and compatibility with older section links.
+- `assets/sabik-irbaz.webp`: optimized version of the supplied professional portrait.
 - `cv/MSI_CV_20260903.pdf`: supplied CV, unchanged. `cv/MSI_CV.pdf` also serves that updated CV for the earlier download path.
 - `archive/`: earlier published site and supporting PDFs/images, with a historical-content notice. This is retained for earlier projects, talks, and hobbies, rather than used for current credentials. Its older external links were not all reverified.
 - `CONTENT-SOURCES.md`: source mapping, status decisions, and maintenance notes.

@@ -14,6 +14,7 @@ Reviewed September 7, 2026.
 | Scholar | https://scholar.google.com/citations?user=PLdULx4AAAAJ | Profile identity from old site and search. No citation count or h-index claimed. |
 | LinkedIn | https://www.linkedin.com/in/sabik-irbaz/ | Confirmed public professional profile. |
 | Earlier publications, talks, project reports, and photo | Supplied website ZIP | Retained under archive with historical label. |
+| 2021–2026 news timeline | Supplied September 2026 CV; publication records above; IUT CSE news archive | Months are included where the source provides them. The 2025 reviewing entry is year-level because no public month was available. |
 
 ## Content choices
 
