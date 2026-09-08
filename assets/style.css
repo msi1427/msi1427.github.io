@@ -37,3 +37,22 @@ html[data-theme="dark"] .contact-email{border-color:var(--ink)}
 @media(max-width:900px){.brand span{display:block}.menu{display:block;border:1px solid var(--line);background:var(--card);padding:7px 12px;font-size:14px}.header nav{display:none;position:absolute;top:92px;left:0;right:0;background:var(--header);padding:25px 32px;border-bottom:1px solid var(--line);align-items:stretch}.header nav.open{display:flex;flex-direction:column;gap:20px}.header .nav-contact{display:block;border:0}.header-actions{margin-left:auto}}
 @media(max-width:800px){.header nav{top:76px}}
 @media(max-width:620px){.header nav{top:70px;padding-inline:20px}.brand span{font-size:12px;padding-left:10px}.brand b{font-size:1.1rem}}
+
+/* Readability and interaction refinements */
+.pipeline-output{color:#0b1014;font-weight:700;text-shadow:none}
+.pipeline .diagram-note{color:#c7d3d8}
+html[data-theme="dark"] .pipeline-input{border-color:#65767f}
+html[data-theme="dark"] .pipeline-input small,html[data-theme="dark"] .pipeline-step small{color:#c4d0d5}
+html[data-theme="dark"] .pipeline-step{border-color:#43525b}
+html[data-theme="dark"] .pipeline-output{color:#0b1014}
+.news-heading>p:not(.eyebrow){font-size:14px;line-height:1.6;margin-top:14px;max-width:300px}
+.news-heading .text-link{display:inline-block;margin-top:20px}
+.news-list article{padding-inline:14px;border-left:2px solid transparent;transition:background-color .2s ease,border-color .2s ease,transform .2s ease}
+.news-list article:hover{background:var(--light);border-left-color:var(--green);transform:translateX(3px)}
+.news-list h3{max-width:760px}
+body,.header,.project,.repo,.experience-section,.about-section,.pipeline,.theme-toggle{transition:background-color .25s ease,color .25s ease,border-color .25s ease}
+.project,.repo,.forthcoming{box-shadow:0 1px 0 rgba(17,28,36,.04)}
+html[data-theme="dark"] .project,html[data-theme="dark"] .repo,html[data-theme="dark"] .forthcoming{box-shadow:0 1px 0 rgba(255,255,255,.03)}
+.project:hover{border-color:#91a3ab}
+html[data-theme="dark"] .project:hover{border-color:#53656e}
+@media(max-width:620px){.news-list article{grid-template-columns:70px 1fr;padding-inline:8px}.news-list time{font-size:10px}.news-tag{letter-spacing:.06em}}

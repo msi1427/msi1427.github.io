@@ -24,5 +24,4 @@ renderTheme(root.dataset.theme === 'light' ? 'light' : 'dark');
 themeButton.addEventListener('click', () => {
   const next = root.dataset.theme === 'dark' ? 'light' : 'dark';
   renderTheme(next);
-  try { localStorage.setItem('theme', next); } catch (e) {}
 });
